@@ -1,0 +1,338 @@
+{
+    "Понедельник": [
+        {
+            "time": "12:30-13:50",
+            "remarks": "",
+            "subject": "Физическая культура",
+            "lecture-practice": "",
+            "room": "",
+            "teacher": "",
+            "date": ""
+        },
+        {
+            "time": "14:30–15:50",
+            "remarks": "а",
+            "subject": "Мат. модели динамических процессов",
+            "lecture-practice": "лаб",
+            "room": "120 (238 до 22.04)",
+            "teacher": "Лаврова О.А.",
+            "date": ""
+        },
+        {
+            "time": "14:30–15:50",
+            "remarks": "б",
+            "subject": "Численные методы",
+            "lecture-practice": "лаб",
+            "room": "410",
+            "teacher": "Азаров А.И.",
+            "date": ""
+        },
+        {
+            "time": "16:00–17:20",
+            "remarks": "1н",
+            "subject": "Мат. модели динамических процессов",
+            "lecture-practice": "л",
+            "room": "120 (238 до 22.04)",
+            "teacher": "Лаврова О.А.",
+            "date": ""
+        },
+        {
+            "time": "16:00–17:20",
+            "remarks": "2н",
+            "subject": "Численные методы",
+            "lecture-practice": "л",
+            "room": "606",
+            "teacher": "Азаров А.И.",
+            "date": ""
+        },
+        {
+            "time": "17:40–19:00",
+            "remarks": "",
+            "subject": "Теоретическая механика",
+            "lecture-practice": "л",
+            "room": "332",
+            "teacher": "Мармыш Д.Е.",
+            "date": "(05.02-25.03)"
+        },
+        {
+            "time": "19:10–20:30",
+            "remarks": "",
+            "subject": "Теоретическая механика",
+            "lecture-practice": "п",
+            "room": "332",
+            "teacher": "Мармыш Д.Е.",
+            "date": "(05.02-25.03)"
+        }
+    ],
+    "Вторник": [
+        {
+            "time": "13:00–14:20",
+            "remarks": "",
+            "subject": "Дискретная математика и теория графов",
+            "lecture-practice": "л",
+            "room": "338",
+            "teacher": "Метельский Ю.М.",
+            "date": ""
+        },
+        {
+            "time": "14:30–15:50",
+            "remarks": "",
+            "subject": "ТВиМС",
+            "lecture-practice": "л",
+            "room": "338",
+            "teacher": "Сташуленок С.П.",
+            "date": ""
+        },
+        {
+            "time": "16:00–17:20",
+            "remarks": "",
+            "subject": "ТВиМС",
+            "lecture-practice": "п",
+            "room": "338",
+            "teacher": "Сташуленок С.П.",
+            "date": ""
+        },
+        {
+            "time": "17:40–19:00",
+            "remarks": "а",
+            "subject": "Численные методы",
+            "lecture-practice": "лаб",
+            "room": "405",
+            "teacher": "Якименко Т.С.",
+            "date": ""
+        },
+        {
+            "time": "17:40–19:00",
+            "remarks": "б",
+            "subject": "ДВО Базы данных",
+            "lecture-practice": "лаб",
+            "room": "407",
+            "teacher": "Кушнеров А.В.",
+            "date": ""
+        },
+        {
+            "time": "19:10–20:30",
+            "remarks": "",
+            "subject": "Белорусский язык",
+            "lecture-practice": "",
+            "room": "338",
+            "teacher": "Чернобровкина Н.В.",
+            "date": ""
+        }
+    ],
+    "Среда": [
+        {
+            "time": "11:15–12:35",
+            "remarks": "",
+            "subject": "Информационный/Кураторский час",
+            "lecture-practice": "",
+            "room": "346",
+            "teacher": "Лаврова О.А.",
+            "date": ""
+        },
+        {
+            "time": "13:00–14:20",
+            "remarks": "1н",
+            "subject": "ДВ Методы математического программирования",
+            "lecture-practice": "л/лаб",
+            "room": "120 (238 до 22.04)",
+            "teacher": "Лаврова О.А.",
+            "date": ""
+        },
+        {
+            "time": "13:00–14:20",
+            "remarks": "2н",
+            "subject": "ДВ Компьютерная алгебра",
+            "lecture-practice": "л/лаб",
+            "room": "230",
+            "teacher": "Садовский А.П.",
+            "date": ""
+        },
+        {
+            "time": "14:30–15:50",
+            "remarks": "б",
+            "subject": "ДВ Методы математического программирования",
+            "lecture-practice": "л/лаб",
+            "room": "404",
+            "teacher": "Лаврова О.А.",
+            "date": ""
+        },
+        {
+            "time": "14:30–15:50",
+            "remarks": "а",
+            "subject": "ДВ Компьютерная алгебра",
+            "lecture-practice": "л/лаб",
+            "room": "405",
+            "teacher": "Садовский А.П.",
+            "date": ""
+        },
+        {
+            "time": "16:00–17:20",
+            "remarks": "2н",
+            "subject": "ДВО Базы данных",
+            "lecture-practice": "л",
+            "room": "332",
+            "teacher": "Кушнеров А.В.",
+            "date": ""
+        },
+        {
+            "time": "16:00–17:20",
+            "remarks": "1н",
+            "subject": "УМФ",
+            "lecture-practice": "л/п",
+            "room": "332",
+            "teacher": "Корзюк В.И.",
+            "date": ""
+        },
+        {
+            "time": "17:40–19:00",
+            "remarks": "",
+            "subject": "УМФ",
+            "lecture-practice": "л/п",
+            "room": "332",
+            "teacher": "Корзюк В.И.",
+            "date": ""
+        },
+        {
+            "time": "19:10–20:30",
+            "remarks": "а",
+            "subject": "ДВО Базы данных",
+            "lecture-practice": "лаб",
+            "room": "404",
+            "teacher": "Кушнеров А.В.",
+            "date": ""
+        }
+    ],
+    "Четверг": [
+        {
+            "time": "13:00–14:20",
+            "remarks": "",
+            "subject": "ВП",
+            "lecture-practice": "",
+            "room": "",
+            "teacher": "",
+            "date": ""
+        }
+    ],
+    "Пятница": [
+        {
+            "time": "12:30-13:50",
+            "remarks": "",
+            "subject": "Физическая культура",
+            "lecture-practice": "",
+            "room": "",
+            "teacher": "",
+            "date": "(кроме 31.05)"
+        },
+        {
+            "time": "14:30–15:50",
+            "remarks": "",
+            "subject": "Дискретная математика и теория графов",
+            "lecture-practice": "п",
+            "room": "338",
+            "teacher": "Метельский Ю.М.",
+            "date": ""
+        },
+        {
+            "time": "16:00–17:20",
+            "remarks": "",
+            "subject": "Анализ данных",
+            "lecture-practice": "л",
+            "room": "338",
+            "teacher": "Василевич М.Н.",
+            "date": ""
+        },
+        {
+            "time": "17:40–19:00",
+            "remarks": "а",
+            "subject": "Анализ данных",
+            "lecture-practice": "лаб",
+            "room": "403",
+            "teacher": "Василевич М.Н.",
+            "date": ""
+        },
+        {
+            "time": "17:40–19:00",
+            "remarks": "б",
+            "subject": "Мат. модели динамических процессов",
+            "lecture-practice": "лаб",
+            "room": "409",
+            "teacher": "Щеглова Н.Л.",
+            "date": ""
+        },
+        {
+            "time": "19:10–20:30",
+            "remarks": "",
+            "subject": "Теоретическая механика",
+            "lecture-practice": "л/п",
+            "room": "338",
+            "teacher": "Мармыш Д.Е.",
+            "date": "(05.02-25.03)"
+        }
+    ],
+    "Суббота": [
+        {
+            "time": "09:45–11:05",
+            "remarks": "",
+            "subject": "Этническая и конфессиональная история Беларуси",
+            "lecture-practice": "л",
+            "room": "606",
+            "teacher": "Карпович Н.В.",
+            "date": "(02.03-30.03)"
+        },
+        {
+            "time": "09:45–11:05",
+            "remarks": "",
+            "subject": "Основы предпринимательской деятельности",
+            "lecture-practice": "л",
+            "room": "606",
+            "teacher": "Короткевич Л.М.",
+            "date": "(13.04-04.05)"
+        },
+        {
+            "time": "11:15–12:35",
+            "remarks": "",
+            "subject": "Этническая и конфессиональная история Беларуси",
+            "lecture-practice": "л",
+            "room": "606",
+            "teacher": "Карпович Н.В.",
+            "date": "(02.03-06.04)"
+        },
+        {
+            "time": "11:15–12:35",
+            "remarks": "",
+            "subject": "Основы предпринимательской деятельности",
+            "lecture-practice": "л",
+            "room": "606",
+            "teacher": "Короткевич Л.М.",
+            "date": "(13.04-04.05)"
+        },
+        {
+            "time": "13:00–14:20",
+            "remarks": "б",
+            "subject": "Анализ данных",
+            "lecture-practice": "лаб",
+            "room": "403",
+            "teacher": "Кухарев А.Л.",
+            "date": ""
+        },
+        {
+            "time": "14:30–15:50",
+            "remarks": "",
+            "subject": "Теоретическая механика",
+            "lecture-practice": "л/п",
+            "room": "332",
+            "teacher": "Мармыш Д.Е.",
+            "date": "(05.02-25.03)"
+        },
+        {
+            "time": "16:00–17:20",
+            "remarks": "",
+            "subject": "Физическая культура",
+            "lecture-practice": "",
+            "room": "",
+            "teacher": "",
+            "date": "(27.04)"
+        }
+    ]
+}

@@ -1,0 +1,161 @@
+{
+    "Вторник": [
+        {
+            "time": "13:00–14:20",
+            "remarks": "",
+            "subject": "Физика",
+            "lecture-practice": "",
+            "room": "351",
+            "teacher": "Новицкий А.В.",
+            "date": "(06.02-12.03)"
+        },
+        {
+            "time": "14:30–15:50",
+            "remarks": "",
+            "subject": "Физика",
+            "lecture-practice": "",
+            "room": "351",
+            "teacher": "Новицкий А.В.",
+            "date": "(06.02-12.03)"
+        },
+        {
+            "time": "16:00–17:20",
+            "remarks": "",
+            "subject": "Физика",
+            "lecture-practice": "",
+            "room": "351",
+            "teacher": "Новицкий А.В.",
+            "date": "(06.02-12.03)"
+        },
+        {
+            "time": "17:40–19:00",
+            "remarks": "",
+            "subject": "Физика",
+            "lecture-practice": "",
+            "room": "351",
+            "teacher": "Новицкий А.В.",
+            "date": "(06.02-12.03)"
+        },
+        {
+            "time": "19:10–20:30",
+            "remarks": "1н",
+            "subject": "Физика",
+            "lecture-practice": "",
+            "room": "351",
+            "teacher": "Новицкий А.В.",
+            "date": "(06.02-12.03)"
+        }
+    ],
+    "Среда": [
+        {
+            "time": "13:00–14:20",
+            "remarks": "2н",
+            "subject": "Доп. главы теории вероятностей",
+            "lecture-practice": "",
+            "room": "351",
+            "teacher": "Спасков С.А.",
+            "date": "(14.02, 28.02, 13.03)"
+        },
+        {
+            "time": "14:30–15:50",
+            "remarks": "",
+            "subject": "Доп. главы теории вероятностей",
+            "lecture-practice": "",
+            "room": "351",
+            "teacher": "Спасков С.А.",
+            "date": "(07.02-13.03)"
+        },
+        {
+            "time": "16:00–17:20",
+            "remarks": "",
+            "subject": "Доп. главы теории вероятностей",
+            "lecture-practice": "",
+            "room": "351",
+            "teacher": "Штин С.Л.",
+            "date": "(07.02-13.03)"
+        },
+        {
+            "time": "17:40–19:00",
+            "remarks": "",
+            "subject": "Доп. главы теории вероятностей",
+            "lecture-practice": "",
+            "room": "351",
+            "teacher": "Штин С.Л.",
+            "date": "(07.02-13.03)"
+        },
+        {
+            "time": "19:10–20:30",
+            "remarks": "",
+            "subject": "Доп. главы теории вероятностей",
+            "lecture-practice": "",
+            "room": "351",
+            "teacher": "Штин С.Л.",
+            "date": "(07.02-13.03)"
+        }
+    ],
+    "Четверг": [
+        {
+            "time": "13:00–14:20",
+            "remarks": "",
+            "subject": "Численные методы",
+            "lecture-practice": "лаб",
+            "room": "409",
+            "teacher": "Игнатенко М.В.",
+            "date": "(08.02-07.03)"
+        },
+        {
+            "time": "13:00–14:20",
+            "remarks": "",
+            "subject": "Численные методы",
+            "lecture-practice": "л",
+            "room": "409",
+            "teacher": "Азаров А.И.",
+            "date": "(14.03)"
+        },
+        {
+            "time": "14:30–15:50",
+            "remarks": "",
+            "subject": "Численные методы",
+            "lecture-practice": "лаб",
+            "room": "409",
+            "teacher": "Игнатенко М.В.",
+            "date": "(08.02-29.02)"
+        },
+        {
+            "time": "14:30–15:50",
+            "remarks": "",
+            "subject": "Численные методы",
+            "lecture-practice": "л",
+            "room": "409",
+            "teacher": "Азаров А.И.",
+            "date": "(07.03-14.03)"
+        },
+        {
+            "time": "16:00–17:20",
+            "remarks": "",
+            "subject": "Численные методы",
+            "lecture-practice": "л",
+            "room": "409",
+            "teacher": "Азаров А.И.",
+            "date": "(08.02-14.03)"
+        },
+        {
+            "time": "17:40–19:00",
+            "remarks": "",
+            "subject": "Численные методы",
+            "lecture-practice": "л",
+            "room": "409",
+            "teacher": "Азаров А.И.",
+            "date": "(08.02-29.02)"
+        },
+        {
+            "time": "19:10–20:30",
+            "remarks": "",
+            "subject": "Численные методы",
+            "lecture-practice": "л",
+            "room": "409",
+            "teacher": "Азаров А.И.",
+            "date": "(08.02-07.03)"
+        }
+    ]
+}

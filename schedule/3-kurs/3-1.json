@@ -1,0 +1,401 @@
+{
+    "Понедельник": [
+        {
+            "time": "11:00-12:20",
+            "remarks": "",
+            "subject": "Физическая культура",
+            "lecture-practice": "",
+            "room": "",
+            "teacher": "",
+            "date": ""
+        },
+        {
+            "time": "13:00–14:20",
+            "remarks": "Сп1",
+            "subject": "ДС Мат. основы квантовых вычислений",
+            "lecture-practice": "л",
+            "room": "349",
+            "teacher": "Лыков К.В.",
+            "date": ""
+        },
+        {
+            "time": "13:00–14:20",
+            "remarks": "Сп2",
+            "subject": "ДС Теоретико-числовые методы в криптографии",
+            "lecture-practice": "л",
+            "room": "351",
+            "teacher": "Тихонов С.В.",
+            "date": ""
+        },
+        {
+            "time": "14:30–15:50",
+            "remarks": "Сп1",
+            "subject": "ДС Мат. основы квантовых вычислений",
+            "lecture-practice": "л",
+            "room": "349",
+            "teacher": "Лыков К.В.",
+            "date": ""
+        },
+        {
+            "time": "14:30–15:50",
+            "remarks": "Сп2",
+            "subject": "ДС Теоретико-числовые методы в криптографии",
+            "lecture-practice": "л",
+            "room": "351",
+            "teacher": "Тихонов С.В.",
+            "date": ""
+        },
+        {
+            "time": "16:00–17:20",
+            "remarks": "1н",
+            "subject": "Информационный/Кураторский час Стриленко",
+            "lecture-practice": "",
+            "room": "340",
+            "teacher": "А. Д.",
+            "date": ""
+        },
+        {
+            "time": "16:00–17:20",
+            "remarks": "2н",
+            "subject": "Численные методы",
+            "lecture-practice": "л",
+            "room": "606",
+            "teacher": "Азаров А.И.",
+            "date": ""
+        },
+        {
+            "time": "17:40–19:00",
+            "remarks": "2н",
+            "subject": "Информационный/Кураторский час Стриленко",
+            "lecture-practice": "",
+            "room": "340",
+            "teacher": "А. Д.",
+            "date": ""
+        }
+    ],
+    "Вторник": [
+        {
+            "time": "13:00–14:20",
+            "remarks": "",
+            "subject": "ТВиМС",
+            "lecture-practice": "л",
+            "room": "330",
+            "teacher": "Лыков К.В.",
+            "date": ""
+        },
+        {
+            "time": "14:30–15:50",
+            "remarks": "а",
+            "subject": "ТВиМС",
+            "lecture-practice": "лаб",
+            "room": "408",
+            "teacher": "Гутор А.Г.",
+            "date": ""
+        },
+        {
+            "time": "14:30–15:50",
+            "remarks": "б",
+            "subject": "Функциональный анализ",
+            "lecture-practice": "лаб",
+            "room": "342",
+            "teacher": "Логиновская М.М.",
+            "date": ""
+        },
+        {
+            "time": "16:00–17:20",
+            "remarks": "а",
+            "subject": "Численные методы",
+            "lecture-practice": "лаб",
+            "room": "405",
+            "teacher": "Якименко Т.С.",
+            "date": ""
+        },
+        {
+            "time": "16:00–17:20",
+            "remarks": "б",
+            "subject": "Численные методы",
+            "lecture-practice": "лаб",
+            "room": "408",
+            "teacher": "Волков В.М.",
+            "date": ""
+        },
+        {
+            "time": "17:40–19:00",
+            "remarks": "",
+            "subject": "УМФ",
+            "lecture-practice": "л/п",
+            "room": "334",
+            "teacher": "Ломовцев Ф.Е.",
+            "date": ""
+        },
+        {
+            "time": "19:10–20:30",
+            "remarks": "1н",
+            "subject": "УМФ",
+            "lecture-practice": "л/п",
+            "room": "334",
+            "teacher": "Ломовцев Ф.Е.",
+            "date": ""
+        },
+        {
+            "time": "19:10–20:30",
+            "remarks": "2н",
+            "subject": "Теоретическая механика",
+            "lecture-practice": "л",
+            "room": "334",
+            "teacher": "Докукова Н.А.",
+            "date": ""
+        }
+    ],
+    "Среда": [
+        {
+            "time": "13:00–14:20",
+            "remarks": "1н а",
+            "subject": "Исследование операций",
+            "lecture-practice": "лаб",
+            "room": "334",
+            "teacher": "Ромащенко Г.С.",
+            "date": ""
+        },
+        {
+            "time": "13:00–14:20",
+            "remarks": "2н б",
+            "subject": "Исследование операций",
+            "lecture-practice": "лаб",
+            "room": "334",
+            "teacher": "Ромащенко Г.С.",
+            "date": ""
+        },
+        {
+            "time": "14:30–15:50",
+            "remarks": "",
+            "subject": "Исследование операций",
+            "lecture-practice": "л",
+            "room": "332",
+            "teacher": "Лебедев А.В.",
+            "date": ""
+        },
+        {
+            "time": "16:00–17:20",
+            "remarks": "Сп2",
+            "subject": "ДС Доп. главы геометрии",
+            "lecture-practice": "л",
+            "room": "334",
+            "teacher": "Кононов С.Г.",
+            "date": ""
+        },
+        {
+            "time": "16:00–17:20",
+            "remarks": "Сп1",
+            "subject": "ДС Математические основы машинного обучения",
+            "lecture-practice": "л",
+            "room": "120 (238 до 22.04)",
+            "teacher": "Бондарев С.А.",
+            "date": ""
+        },
+        {
+            "time": "17:40–19:00",
+            "remarks": "Сп2",
+            "subject": "ДС Доп. главы геометрии",
+            "lecture-practice": "л",
+            "room": "334",
+            "teacher": "Кононов С.Г.",
+            "date": ""
+        },
+        {
+            "time": "17:40–19:00",
+            "remarks": "Сп1",
+            "subject": "ДС Математические основы машинного обучения",
+            "lecture-practice": "л",
+            "room": "120 (238 до 22.04)",
+            "teacher": "Бондарев С.А.",
+            "date": ""
+        },
+        {
+            "time": "19:10–20:30",
+            "remarks": "",
+            "subject": "Белорусский язык",
+            "lecture-practice": "",
+            "room": "339",
+            "teacher": "Чернобровкина Н.В.",
+            "date": ""
+        }
+    ],
+    "Четверг": [
+        {
+            "time": "13:00–14:20",
+            "remarks": "",
+            "subject": "ВП",
+            "lecture-practice": "",
+            "room": "",
+            "teacher": "",
+            "date": ""
+        }
+    ],
+    "Пятница": [
+        {
+            "time": "11:00-12:20",
+            "remarks": "",
+            "subject": "Физическая культура",
+            "lecture-practice": "",
+            "room": "",
+            "teacher": "",
+            "date": "(кроме 31.05)"
+        },
+        {
+            "time": "13:00–14:20",
+            "remarks": "1н а",
+            "subject": "Исследование операций",
+            "lecture-practice": "лаб",
+            "room": "340",
+            "teacher": "Ромащенко Г.С.",
+            "date": ""
+        },
+        {
+            "time": "13:00–14:20",
+            "remarks": "2н б",
+            "subject": "Исследование операций",
+            "lecture-practice": "лаб",
+            "room": "340",
+            "teacher": "Ромащенко Г.С.",
+            "date": ""
+        },
+        {
+            "time": "14:30–15:50",
+            "remarks": "",
+            "subject": "Функциональный анализ",
+            "lecture-practice": "л",
+            "room": "332",
+            "teacher": "Антоневич А.Б.",
+            "date": ""
+        },
+        {
+            "time": "16:00–17:20",
+            "remarks": "а",
+            "subject": "Функциональный анализ",
+            "lecture-practice": "лаб",
+            "room": "330",
+            "teacher": "Логиновская М.М.",
+            "date": ""
+        },
+        {
+            "time": "16:00–17:20",
+            "remarks": "б",
+            "subject": "ТВиМС",
+            "lecture-practice": "лаб",
+            "room": "334",
+            "teacher": "Кравцов Д.И.",
+            "date": ""
+        },
+        {
+            "time": "17:40–19:00",
+            "remarks": "1н а",
+            "subject": "Теоретическая механика",
+            "lecture-practice": "лаб",
+            "room": "330",
+            "teacher": "Докукова Н.А.",
+            "date": ""
+        },
+        {
+            "time": "17:40–19:00",
+            "remarks": "2н б",
+            "subject": "Теоретическая механика",
+            "lecture-practice": "лаб",
+            "room": "330",
+            "teacher": "Докукова Н.А.",
+            "date": ""
+        }
+    ],
+    "Суббота": [
+        {
+            "time": "09:45–11:05",
+            "remarks": "",
+            "subject": "Основы права",
+            "lecture-practice": "л",
+            "room": "609",
+            "teacher": "Хлус А.М.",
+            "date": "(10.02-09.03)"
+        },
+        {
+            "time": "09:45–11:05",
+            "remarks": "",
+            "subject": "Основы предпринимательской деятельности",
+            "lecture-practice": "л",
+            "room": "609",
+            "teacher": "Зеленковская Н.В.",
+            "date": "(23.03-13.04)"
+        },
+        {
+            "time": "11:15–12:35",
+            "remarks": "",
+            "subject": "Основы права",
+            "lecture-practice": "л",
+            "room": "609",
+            "teacher": "Хлус А.М.",
+            "date": "(10.02-16.03)"
+        },
+        {
+            "time": "11:15–12:35",
+            "remarks": "",
+            "subject": "Основы предпринимательской деятельности",
+            "lecture-practice": "л",
+            "room": "609",
+            "teacher": "Зеленковская Н.В.",
+            "date": "(23.03-13.04)"
+        },
+        {
+            "time": "14:30–15:50",
+            "remarks": "",
+            "subject": "Основы предпринимательской деятельности",
+            "lecture-practice": "с",
+            "room": "237",
+            "teacher": "Зеленковская Н.В.",
+            "date": "(04.05)"
+        },
+        {
+            "time": "14:30–15:50",
+            "remarks": "",
+            "subject": "Физическая культура",
+            "lecture-practice": "",
+            "room": "",
+            "teacher": "",
+            "date": "(27.04)"
+        },
+        {
+            "time": "16:00–17:20",
+            "remarks": "",
+            "subject": "Основы права",
+            "lecture-practice": "c",
+            "room": "237",
+            "teacher": "Хлус А.М.",
+            "date": "(16.03, 23.03, 06.04)"
+        },
+        {
+            "time": "16:00–17:20",
+            "remarks": "",
+            "subject": "Основы предпринимательской деятельности",
+            "lecture-practice": "с",
+            "room": "237",
+            "teacher": "Зеленковская Н.В.",
+            "date": "(20.04, 27.04)"
+        },
+        {
+            "time": "17:40–19:00",
+            "remarks": "",
+            "subject": "Основы права",
+            "lecture-practice": "c",
+            "room": "237",
+            "teacher": "Хлус А.М.",
+            "date": "(16.03, 23.03, 06.04)"
+        },
+        {
+            "time": "17:40–19:00",
+            "remarks": "",
+            "subject": "Основы предпринимательской деятельности",
+            "lecture-practice": "с",
+            "room": "237",
+            "teacher": "Зеленковская Н.В.",
+            "date": "(23.03-13.04)"
+        }
+    ]
+}

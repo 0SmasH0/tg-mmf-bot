@@ -1,0 +1,51 @@
+{
+    "Среда": [
+        {
+            "time": "08:15–09:35",
+            "remarks": "",
+            "subject": "Доп. главы алгебры",
+            "lecture-practice": "л",
+            "room": "239",
+            "teacher": "Каскевич В.И.",
+            "date": ""
+        },
+        {
+            "time": "09:45–11:05",
+            "remarks": "",
+            "subject": "Доп. главы алгебры",
+            "lecture-practice": "п",
+            "room": "239",
+            "teacher": "Каскевич В.И.",
+            "date": ""
+        },
+        {
+            "time": "11:15–12:35",
+            "remarks": "",
+            "subject": "Теория групп",
+            "lecture-practice": "л",
+            "room": "239",
+            "teacher": "Беняш-Кривец В.В.",
+            "date": ""
+        },
+        {
+            "time": "13:00–14:20",
+            "remarks": "",
+            "subject": "Теория групп",
+            "lecture-practice": "п",
+            "room": "239",
+            "teacher": "Беняш-Кривец В.В.",
+            "date": ""
+        }
+    ],
+    "Четверг": [
+        {
+            "time": "13:00–14:20",
+            "remarks": "",
+            "subject": "Доп. главы алгебры",
+            "lecture-practice": "п",
+            "room": "239",
+            "teacher": "Каскевич В.И.",
+            "date": ""
+        }
+    ]
+}

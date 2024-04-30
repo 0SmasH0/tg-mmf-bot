@@ -1,0 +1,329 @@
+{
+    "Понедельник": [
+        {
+            "time": "11:00-12:20",
+            "remarks": "",
+            "subject": "Физическая культура",
+            "lecture-practice": "",
+            "room": "",
+            "teacher": "",
+            "date": ""
+        },
+        {
+            "time": "13:00–14:20",
+            "remarks": "а",
+            "subject": "Численные методы",
+            "lecture-practice": "лаб",
+            "room": "407",
+            "teacher": "Якименко Т.С.",
+            "date": "(26.02-1.06)"
+        },
+        {
+            "time": "13:00–14:20",
+            "remarks": "б",
+            "subject": "Численные методы",
+            "lecture-practice": "лаб",
+            "room": "404",
+            "teacher": "Волков В.М.",
+            "date": "(26.02-1.06)"
+        },
+        {
+            "time": "14:30–15:50",
+            "remarks": "2н",
+            "subject": "ТВиМС",
+            "lecture-practice": "л",
+            "room": "237",
+            "teacher": "Сташуленок С.П.",
+            "date": "(26.02-1.06)"
+        },
+        {
+            "time": "14:30–15:50",
+            "remarks": "1н",
+            "subject": "Методика преподавания математики",
+            "lecture-practice": "л/п",
+            "room": "237",
+            "teacher": "Карневич О.Н.",
+            "date": "(26.02-1.06)"
+        },
+        {
+            "time": "16:00–17:20",
+            "remarks": "",
+            "subject": "Методика преподавания математики",
+            "lecture-practice": "л/п",
+            "room": "237",
+            "teacher": "Карневич О.Н.",
+            "date": "(26.02-1.06)"
+        },
+        {
+            "time": "17:40–19:00",
+            "remarks": "",
+            "subject": "Методика преподавания математики",
+            "lecture-practice": "л/п",
+            "room": "237",
+            "teacher": "Карневич О.Н.",
+            "date": "(26.02-1.06)"
+        },
+        {
+            "time": "19:10–20:30",
+            "remarks": "2н",
+            "subject": "Численные методы",
+            "lecture-practice": "л",
+            "room": "606",
+            "teacher": "Волков В.М.",
+            "date": "(26.02-1.06)"
+        },
+        {
+            "time": "19:10–20:30",
+            "remarks": "",
+            "subject": "Численные методы",
+            "lecture-practice": "л",
+            "room": "606",
+            "teacher": "Волков В.М.",
+            "date": "(04.03, 18.03, 01.04)"
+        }
+    ],
+    "Вторник": [
+        {
+            "time": "13:00–14:20",
+            "remarks": "",
+            "subject": "УМФ",
+            "lecture-practice": "л/п",
+            "room": "347",
+            "teacher": "Корзюк В.И.",
+            "date": "(27.02-14.05)"
+        },
+        {
+            "time": "14:30–15:50",
+            "remarks": "",
+            "subject": "ЭЗиВИ",
+            "lecture-practice": "л",
+            "room": "339",
+            "teacher": "Лебедев А.В.",
+            "date": "(27.02-1.06)"
+        },
+        {
+            "time": "16:00–17:20",
+            "remarks": "1н",
+            "subject": "Теоретическая механика",
+            "lecture-practice": "л",
+            "room": "334",
+            "teacher": "Вярвильская О.Н.",
+            "date": "(27.02-1.06)"
+        },
+        {
+            "time": "16:00–17:20",
+            "remarks": "2н а",
+            "subject": "Теоретическая механика",
+            "lecture-practice": "лаб",
+            "room": "334",
+            "teacher": "Вярвильская О.Н.",
+            "date": "(27.02-1.06)"
+        },
+        {
+            "time": "16:00–17:20",
+            "remarks": "2н б",
+            "subject": "ТВиМС",
+            "lecture-practice": "лаб",
+            "room": "342",
+            "teacher": "Гутор А.Г.",
+            "date": "(27.02-1.06)"
+        },
+        {
+            "time": "17:40–19:00",
+            "remarks": "1н а",
+            "subject": "ТВиМС",
+            "lecture-practice": "лаб",
+            "room": "330",
+            "teacher": "Гутор А.Г.",
+            "date": "(27.02-1.06)"
+        },
+        {
+            "time": "17:40–19:00",
+            "remarks": "2н б",
+            "subject": "ЭЗиВИ",
+            "lecture-practice": "лаб",
+            "room": "330",
+            "teacher": "Лебедев А.В.",
+            "date": "(27.02-1.06)"
+        },
+        {
+            "time": "19:10–20:30",
+            "remarks": "1н а",
+            "subject": "ЭЗиВИ",
+            "lecture-practice": "лаб",
+            "room": "337",
+            "teacher": "Лебедев А.В.",
+            "date": "(27.02-1.06)"
+        }
+    ],
+    "Среда": [
+        {
+            "time": "11:15–12:35",
+            "remarks": "",
+            "subject": "Информационный/Кураторский час",
+            "lecture-practice": "",
+            "room": "344",
+            "teacher": "Карневич О.Н.",
+            "date": ""
+        },
+        {
+            "time": "13:00–14:20",
+            "remarks": "б",
+            "subject": "Теоретическая механика",
+            "lecture-practice": "лаб",
+            "room": "337",
+            "teacher": "Медведев Д.Г.",
+            "date": "(28.02-24.05)"
+        },
+        {
+            "time": "13:00–14:20",
+            "remarks": "а",
+            "subject": "Функциональный анализ",
+            "lecture-practice": "лаб",
+            "room": "341",
+            "teacher": "Штин С.Л.",
+            "date": "(28.02-1.06)"
+        },
+        {
+            "time": "14:30–15:50",
+            "remarks": "",
+            "subject": "УМФ",
+            "lecture-practice": "л/п",
+            "room": "337",
+            "teacher": "Корзюк В.И.",
+            "date": "(28.02-1.06)"
+        },
+        {
+            "time": "16:00–17:20",
+            "remarks": "",
+            "subject": "Белорусский язык",
+            "lecture-practice": "",
+            "room": "339",
+            "teacher": "Муравицкая Е.М.",
+            "date": ""
+        },
+        {
+            "time": "17:40–19:00",
+            "remarks": "1н а",
+            "subject": "ЭЗиВИ",
+            "lecture-practice": "лаб",
+            "room": "330",
+            "teacher": "Лебедев А.В.",
+            "date": "(28.02-1.06)"
+        },
+        {
+            "time": "17:40–19:00",
+            "remarks": "2н б",
+            "subject": "ЭЗиВИ",
+            "lecture-practice": "лаб",
+            "room": "330",
+            "teacher": "Лебедев А.В.",
+            "date": "(28.02-1.06)"
+        }
+    ],
+    "Четверг": [
+        {
+            "time": "13:00–14:20",
+            "remarks": "",
+            "subject": "ВП",
+            "lecture-practice": "",
+            "room": "",
+            "teacher": "",
+            "date": ""
+        }
+    ],
+    "Пятница": [
+        {
+            "time": "11:00-12:20",
+            "remarks": "",
+            "subject": "Физическая культура",
+            "lecture-practice": "",
+            "room": "",
+            "teacher": "",
+            "date": "(кроме 31.05)"
+        },
+        {
+            "time": "13:00–14:20",
+            "remarks": "",
+            "subject": "Основания геометрии",
+            "lecture-practice": "л",
+            "room": "239",
+            "teacher": "Кукрак Г.О.",
+            "date": "(28.02-1.06)"
+        },
+        {
+            "time": "14:30–15:50",
+            "remarks": "",
+            "subject": "Основания геометрии",
+            "lecture-practice": "л/п",
+            "room": "239",
+            "teacher": "Кукрак Г.О.",
+            "date": "(28.02-1.06)"
+        },
+        {
+            "time": "16:00–17:20",
+            "remarks": "",
+            "subject": "Функциональный анализ",
+            "lecture-practice": "л",
+            "room": "239",
+            "teacher": "Штин С.Л.",
+            "date": "(28.02-1.06)"
+        },
+        {
+            "time": "17:40–19:00",
+            "remarks": "б",
+            "subject": "Функциональный анализ",
+            "lecture-practice": "лаб",
+            "room": "239",
+            "teacher": "Штин С.Л.",
+            "date": "(28.02-1.06)"
+        }
+    ],
+    "Суббота": [
+        {
+            "time": "09:45–11:05",
+            "remarks": "",
+            "subject": "Этническая и конфессиональная история Беларуси",
+            "lecture-practice": "л",
+            "room": "606",
+            "teacher": "Карпович Н.В.",
+            "date": "(02.03-30.03)"
+        },
+        {
+            "time": "09:45–11:05",
+            "remarks": "",
+            "subject": "Основы предпринимательской деятельности",
+            "lecture-practice": "л",
+            "room": "606",
+            "teacher": "Короткевич Л.М.",
+            "date": "(13.04-04.05)"
+        },
+        {
+            "time": "11:15–12:35",
+            "remarks": "",
+            "subject": "Этническая и конфессиональная история Беларуси",
+            "lecture-practice": "л",
+            "room": "606",
+            "teacher": "Карпович Н.В.",
+            "date": "(02.03-06.04)"
+        },
+        {
+            "time": "11:15–12:35",
+            "remarks": "",
+            "subject": "Основы предпринимательской деятельности",
+            "lecture-practice": "л",
+            "room": "606",
+            "teacher": "Короткевич Л.М.",
+            "date": "(13.04-04.05)"
+        },
+        {
+            "time": "14:30–15:50",
+            "remarks": "",
+            "subject": "Физическая культура",
+            "lecture-practice": "",
+            "room": "",
+            "teacher": "",
+            "date": "(27.04)"
+        }
+    ]
+}

@@ -1,0 +1,275 @@
+{
+    "Понедельник": [
+        {
+            "time": "12:30-13:50",
+            "remarks": "",
+            "subject": "Физическая культура",
+            "lecture-practice": "",
+            "room": "",
+            "teacher": "",
+            "date": ""
+        },
+        {
+            "time": "14:30–15:50",
+            "remarks": "",
+            "subject": "УМФ",
+            "lecture-practice": "л/п",
+            "room": "330",
+            "teacher": "Гладков А.Л.",
+            "date": ""
+        },
+        {
+            "time": "16:00–17:20",
+            "remarks": "1н",
+            "subject": "УМФ",
+            "lecture-practice": "л/п",
+            "room": "330",
+            "teacher": "Гладков А.Л.",
+            "date": ""
+        },
+        {
+            "time": "16:00–17:20",
+            "remarks": "2н",
+            "subject": "Численные методы",
+            "lecture-practice": "л",
+            "room": "606",
+            "teacher": "Азаров А.И.",
+            "date": ""
+        },
+        {
+            "time": "17:40–19:00",
+            "remarks": "",
+            "subject": "Численные методы",
+            "lecture-practice": "лаб",
+            "room": "407",
+            "teacher": "Азаров А.И.",
+            "date": ""
+        }
+    ],
+    "Вторник": [
+        {
+            "time": "11:15–12:35",
+            "remarks": "",
+            "subject": "Теоретическая механика",
+            "lecture-practice": "л",
+            "room": "334",
+            "teacher": "Вярвильская О.Н.",
+            "date": ""
+        },
+        {
+            "time": "13:00–14:20",
+            "remarks": "",
+            "subject": "Теоретическая механика",
+            "lecture-practice": "лаб",
+            "room": "334",
+            "teacher": "Вярвильская О.Н.",
+            "date": ""
+        },
+        {
+            "time": "14:30–15:50",
+            "remarks": "",
+            "subject": "Теоретическая механика",
+            "lecture-practice": "л/лаб",
+            "room": "334",
+            "teacher": "Вярвильская О.Н.",
+            "date": ""
+        },
+        {
+            "time": "16:00–17:20",
+            "remarks": "",
+            "subject": "ТВиМС",
+            "lecture-practice": "л",
+            "room": "337",
+            "teacher": "Лыков К.В.",
+            "date": ""
+        },
+        {
+            "time": "17:40–19:00",
+            "remarks": "",
+            "subject": "ТВиМС",
+            "lecture-practice": "лаб",
+            "room": "337",
+            "teacher": "Борбут В.А.",
+            "date": ""
+        }
+    ],
+    "Среда": [
+        {
+            "time": "13:00–14:20",
+            "remarks": "",
+            "subject": "Белорусский язык",
+            "lecture-practice": "",
+            "room": "339",
+            "teacher": "Муравицкая Е.М.",
+            "date": ""
+        },
+        {
+            "time": "14:30–15:50",
+            "remarks": "",
+            "subject": "Исследование операций",
+            "lecture-practice": "л",
+            "room": "332",
+            "teacher": "Лебедев А.В.",
+            "date": ""
+        },
+        {
+            "time": "16:00–17:20",
+            "remarks": "",
+            "subject": "Исследование операций",
+            "lecture-practice": "лаб",
+            "room": "330",
+            "teacher": "Ромащенко Г.С.",
+            "date": ""
+        },
+        {
+            "time": "17:40–19:00",
+            "remarks": "",
+            "subject": "ДС Теория игр",
+            "lecture-practice": "л",
+            "room": "341",
+            "teacher": "Бахтин В.И.",
+            "date": ""
+        },
+        {
+            "time": "19:10–20:30",
+            "remarks": "",
+            "subject": "ДС Теория игр",
+            "lecture-practice": "лаб",
+            "room": "341",
+            "teacher": "Бахтин В.И.",
+            "date": ""
+        }
+    ],
+    "Четверг": [
+        {
+            "time": "13:00–14:20",
+            "remarks": "",
+            "subject": "ВП",
+            "lecture-practice": "",
+            "room": "",
+            "teacher": "",
+            "date": ""
+        }
+    ],
+    "Пятница": [
+        {
+            "time": "12:30-13:50",
+            "remarks": "",
+            "subject": "Физическая культура",
+            "lecture-practice": "",
+            "room": "",
+            "teacher": "",
+            "date": "(кроме 31.05)"
+        },
+        {
+            "time": "14:30–15:50",
+            "remarks": "",
+            "subject": "Функциональный анализ",
+            "lecture-practice": "л",
+            "room": "332",
+            "teacher": "Антоневич А.Б.",
+            "date": ""
+        },
+        {
+            "time": "16:00–17:20",
+            "remarks": "",
+            "subject": "Функциональный анализ",
+            "lecture-practice": "лаб",
+            "room": "337",
+            "teacher": "Бедрицкий А.С.",
+            "date": ""
+        },
+        {
+            "time": "17:40–19:00",
+            "remarks": "",
+            "subject": "Этническая и конфессиональная история Беларуси",
+            "lecture-practice": "с",
+            "room": "334",
+            "teacher": "Карпович Н.В.",
+            "date": "(12.04-26.04)"
+        },
+        {
+            "time": "17:40–19:00",
+            "remarks": "",
+            "subject": "Основы предпринимательской деятельности",
+            "lecture-practice": "с",
+            "room": "334",
+            "teacher": "Короткевич Л.М.",
+            "date": "(03.05-17.05)"
+        },
+        {
+            "time": "19:10–20:30",
+            "remarks": "",
+            "subject": "Этническая и конфессиональная история Беларуси",
+            "lecture-practice": "с",
+            "room": "334",
+            "teacher": "Карпович Н.В.",
+            "date": "(12.04-26.04)"
+        },
+        {
+            "time": "19:10–20:30",
+            "remarks": "",
+            "subject": "Основы предпринимательской деятельности",
+            "lecture-practice": "с",
+            "room": "334",
+            "teacher": "Короткевич Л.М.",
+            "date": "(03.05-17.05)"
+        }
+    ],
+    "Суббота": [
+        {
+            "time": "09:45–11:05",
+            "remarks": "",
+            "subject": "Этническая и конфессиональная история Беларуси",
+            "lecture-practice": "л",
+            "room": "606",
+            "teacher": "Карпович Н.В.",
+            "date": "(02.03-30.03)"
+        },
+        {
+            "time": "09:45–11:05",
+            "remarks": "",
+            "subject": "Основы предпринимательской деятельности",
+            "lecture-practice": "л",
+            "room": "606",
+            "teacher": "Короткевич Л.М.",
+            "date": "(13.04-04.05)"
+        },
+        {
+            "time": "11:15–12:35",
+            "remarks": "",
+            "subject": "Этническая и конфессиональная история Беларуси",
+            "lecture-practice": "л",
+            "room": "606",
+            "teacher": "Карпович Н.В.",
+            "date": "(02.03-06.04)"
+        },
+        {
+            "time": "11:15–12:35",
+            "remarks": "",
+            "subject": "Основы предпринимательской деятельности",
+            "lecture-practice": "л",
+            "room": "606",
+            "teacher": "Короткевич Л.М.",
+            "date": "(13.04-04.05)"
+        },
+        {
+            "time": "13:00–14:20",
+            "remarks": "",
+            "subject": "Информационный/Кураторский час",
+            "lecture-practice": "",
+            "room": "342",
+            "teacher": "Ромащенко Г.С.",
+            "date": ""
+        },
+        {
+            "time": "16:00–17:20",
+            "remarks": "",
+            "subject": "Физическая культура",
+            "lecture-practice": "",
+            "room": "",
+            "teacher": "",
+            "date": "(27.04)"
+        }
+    ]
+}

@@ -1,0 +1,374 @@
+{
+    "Понедельник": [
+        {
+            "time": "09:45–11:05",
+            "remarks": "а",
+            "subject": "Технологии программирования",
+            "lecture-practice": "лаб",
+            "room": "407",
+            "teacher": "Политаев Д.Н.",
+            "date": ""
+        },
+        {
+            "time": "09:45–11:05",
+            "remarks": "в",
+            "subject": "Технологии программирования",
+            "lecture-practice": "лаб",
+            "room": "408",
+            "teacher": "Нагорный Ю.Е.",
+            "date": ""
+        },
+        {
+            "time": "11:15–12:35",
+            "remarks": "",
+            "subject": "Функциональный анализ",
+            "lecture-practice": "л",
+            "room": "338",
+            "teacher": "Лыков К.В.",
+            "date": ""
+        },
+        {
+            "time": "13:00–14:20",
+            "remarks": "",
+            "subject": "Теория функций комплексной переменной",
+            "lecture-practice": "л",
+            "room": "338",
+            "teacher": "Громак Е.В.",
+            "date": ""
+        },
+        {
+            "time": "14:30–15:50",
+            "remarks": "б",
+            "subject": "Технологии программирования",
+            "lecture-practice": "лаб",
+            "room": "404",
+            "teacher": "Вельченко С.А.",
+            "date": ""
+        }
+    ],
+    "Вторник": [
+        {
+            "time": "08:15–09:35",
+            "remarks": "",
+            "subject": "Дифференциальные уравнения",
+            "lecture-practice": "п",
+            "room": "342",
+            "teacher": "Громак В.И.",
+            "date": ""
+        },
+        {
+            "time": "09:45–11:05",
+            "remarks": "А",
+            "subject": "Английский язык",
+            "lecture-practice": "",
+            "room": "355",
+            "teacher": "Куцелай О.Б.",
+            "date": ""
+        },
+        {
+            "time": "09:45–11:05",
+            "remarks": "Б",
+            "subject": "Английский язык",
+            "lecture-practice": "",
+            "room": "351",
+            "teacher": "Буславская М.С.",
+            "date": ""
+        },
+        {
+            "time": "09:45–11:05",
+            "remarks": "В",
+            "subject": "Английский язык",
+            "lecture-practice": "",
+            "room": "353",
+            "teacher": "Столярова Е.Ю.",
+            "date": ""
+        },
+        {
+            "time": "11:15–12:35",
+            "remarks": "",
+            "subject": "Дифференциальные уравнения",
+            "lecture-practice": "л",
+            "room": "338",
+            "teacher": "Громак В.И.",
+            "date": ""
+        },
+        {
+            "time": "13:00–14:20",
+            "remarks": "",
+            "subject": "Теория функций комплексной переменной",
+            "lecture-practice": "п",
+            "room": "341",
+            "teacher": "Громак Е.В.",
+            "date": ""
+        },
+        {
+            "time": "15:00-16:20",
+            "remarks": "",
+            "subject": "Физическая культура",
+            "lecture-practice": "",
+            "room": "",
+            "teacher": "",
+            "date": ""
+        }
+    ],
+    "Среда": [
+        {
+            "time": "09:45–11:05",
+            "remarks": "",
+            "subject": "Технологии программирования",
+            "lecture-practice": "л",
+            "room": "609",
+            "teacher": "Романчик В.С.",
+            "date": ""
+        },
+        {
+            "time": "11:15–12:35",
+            "remarks": "1н",
+            "subject": "Прикладной системный анализ",
+            "lecture-practice": "л",
+            "room": "120 (238 до 22.04)",
+            "teacher": "Голубева Л.Л.",
+            "date": ""
+        },
+        {
+            "time": "11:15–12:35",
+            "remarks": "2н",
+            "subject": "Прикладной системный анализ",
+            "lecture-practice": "л",
+            "room": "120 (238 до 22.04)",
+            "teacher": "Атрохов К.Г.",
+            "date": ""
+        },
+        {
+            "time": "13:00–14:20",
+            "remarks": "2н а",
+            "subject": "Мат. основы защиты информации",
+            "lecture-practice": "лаб",
+            "room": "404",
+            "teacher": "Кушнеров А.В.",
+            "date": ""
+        },
+        {
+            "time": "13:00–14:20",
+            "remarks": "в",
+            "subject": "Прикладной системный анализ",
+            "lecture-practice": "лаб",
+            "room": "405",
+            "teacher": "Голубева Л.Л.",
+            "date": ""
+        },
+        {
+            "time": "14:30–15:50",
+            "remarks": "",
+            "subject": "Информационный/Кураторский час",
+            "lecture-practice": "",
+            "room": "239",
+            "teacher": "Атрохов К.Г.",
+            "date": ""
+        }
+    ],
+    "Четверг": [
+        {
+            "time": "09:45–11:05",
+            "remarks": "",
+            "subject": "Нейронные сети и генетические алгоритмы",
+            "lecture-practice": "л",
+            "room": "332",
+            "teacher": "Малевич А.Э.",
+            "date": ""
+        },
+        {
+            "time": "11:15–12:35",
+            "remarks": "а",
+            "subject": "Нейронные сети и генетические алгоритмы",
+            "lecture-practice": "лаб",
+            "room": "403",
+            "teacher": "Малевич А.Э.",
+            "date": ""
+        },
+        {
+            "time": "11:15–12:35",
+            "remarks": "б",
+            "subject": "Нейронные сети и генетические алгоритмы",
+            "lecture-practice": "лаб",
+            "room": "402а",
+            "teacher": "Задорожнюк А.О.",
+            "date": ""
+        },
+        {
+            "time": "11:15–12:35",
+            "remarks": "в",
+            "subject": "Прикладной системный анализ",
+            "lecture-practice": "лаб",
+            "room": "409",
+            "teacher": "Атрохов К.Г.",
+            "date": ""
+        },
+        {
+            "time": "13:00–14:20",
+            "remarks": "а",
+            "subject": "Прикладной системный анализ",
+            "lecture-practice": "лаб",
+            "room": "417",
+            "teacher": "Рапопорт А.Л. ",
+            "date": ""
+        },
+        {
+            "time": "13:00–14:20",
+            "remarks": "б",
+            "subject": "Прикладной системный анализ",
+            "lecture-practice": "лаб",
+            "room": "403",
+            "teacher": "Голубева Л.Л.",
+            "date": ""
+        },
+        {
+            "time": "13:00–14:20",
+            "remarks": "в",
+            "subject": "Нейронные сети и генетические алгоритмы",
+            "lecture-practice": "лаб",
+            "room": "402а",
+            "teacher": "Задорожнюк А.О.",
+            "date": ""
+        },
+        {
+            "time": "14:30–15:50",
+            "remarks": "А",
+            "subject": "Английский язык",
+            "lecture-practice": "",
+            "room": "353",
+            "teacher": "Куцелай О.Б.",
+            "date": ""
+        },
+        {
+            "time": "14:30–15:50",
+            "remarks": "Б",
+            "subject": "Английский язык",
+            "lecture-practice": "",
+            "room": "347",
+            "teacher": "Буславская М.С.",
+            "date": ""
+        },
+        {
+            "time": "14:30–15:50",
+            "remarks": "В",
+            "subject": "Английский язык",
+            "lecture-practice": "",
+            "room": "342",
+            "teacher": "Столярова Е.Ю.",
+            "date": ""
+        },
+        {
+            "time": "16:00–17:20",
+            "remarks": "",
+            "subject": "Физическая культура",
+            "lecture-practice": "л",
+            "room": "д/о",
+            "teacher": "",
+            "date": "(25.04)"
+        }
+    ],
+    "Пятница": [
+        {
+            "time": "8:00-9:20",
+            "remarks": "",
+            "subject": "Физическая культура",
+            "lecture-practice": "",
+            "room": "",
+            "teacher": "",
+            "date": ""
+        },
+        {
+            "time": "09:45–11:05",
+            "remarks": "1н",
+            "subject": "Мат. основы защиты информации",
+            "lecture-practice": "л",
+            "room": "120 (238 до 22.04)",
+            "teacher": "Кушнеров А.В.",
+            "date": ""
+        },
+        {
+            "time": "09:45–11:05",
+            "remarks": "2н",
+            "subject": "Имитационное моделирование в Simulink",
+            "lecture-practice": "л",
+            "room": "120 (238 до 22.04)",
+            "teacher": "Голубева Л.Л.",
+            "date": ""
+        },
+        {
+            "time": "11:15–12:35",
+            "remarks": "а 2н",
+            "subject": "Имитационное моделирование в Simulink",
+            "lecture-practice": "лаб",
+            "room": "404",
+            "teacher": "Голубева Л.Л.",
+            "date": ""
+        },
+        {
+            "time": "11:15–12:35",
+            "remarks": "б 2н",
+            "subject": "Мат. основы защиты информации",
+            "lecture-practice": "лаб",
+            "room": "408",
+            "teacher": "Кушнеров А.В.",
+            "date": ""
+        },
+        {
+            "time": "11:15–12:35",
+            "remarks": "в 1н",
+            "subject": "Мат. основы защиты информации",
+            "lecture-practice": "лаб",
+            "room": "403",
+            "teacher": "Рапопорт А.Л.",
+            "date": ""
+        },
+        {
+            "time": "11:15–12:35",
+            "remarks": "в 2н",
+            "subject": "Имитационное моделирование в Simulink",
+            "lecture-practice": "лаб",
+            "room": "403",
+            "teacher": "Красовский С.Г.",
+            "date": ""
+        },
+        {
+            "time": "13:00–14:20",
+            "remarks": "",
+            "subject": "Функциональный анализ",
+            "lecture-practice": "п",
+            "room": "339",
+            "teacher": "Логиновская М.М.",
+            "date": ""
+        }
+    ],
+    "Суббота": [
+        {
+            "time": "11:15–12:35",
+            "remarks": "б",
+            "subject": "Прикладной системный анализ",
+            "lecture-practice": "лаб",
+            "room": "405",
+            "teacher": "Василюк Н.Г.",
+            "date": ""
+        },
+        {
+            "time": "13:00–14:20",
+            "remarks": "а",
+            "subject": "Прикладной системный анализ",
+            "lecture-practice": "лаб",
+            "room": "405",
+            "teacher": "Василюк Н.Г.",
+            "date": ""
+        },
+        {
+            "time": "13:00–14:20",
+            "remarks": "2н б",
+            "subject": "Имитационное моделирование в Simulink",
+            "lecture-practice": "лаб",
+            "room": "407",
+            "teacher": "Азаров Н.А.",
+            "date": ""
+        }
+    ]
+}

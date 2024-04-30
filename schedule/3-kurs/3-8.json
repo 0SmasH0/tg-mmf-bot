@@ -1,0 +1,320 @@
+{
+    "Понедельник": [
+        {
+            "time": "12:30-13:50",
+            "remarks": "",
+            "subject": "Физическая культура",
+            "lecture-practice": "",
+            "room": "",
+            "teacher": "",
+            "date": ""
+        },
+        {
+            "time": "14:30–15:50",
+            "remarks": "",
+            "subject": "УМФ",
+            "lecture-practice": "л/п",
+            "room": "230",
+            "teacher": "Ковнацкая О.А.",
+            "date": ""
+        },
+        {
+            "time": "14:30–15:50",
+            "remarks": "",
+            "subject": " ",
+            "lecture-practice": "",
+            "room": "",
+            "teacher": "",
+            "date": ""
+        },
+        {
+            "time": "16:00–17:20",
+            "remarks": "",
+            "subject": "ВИиМО",
+            "lecture-practice": "п",
+            "room": "337",
+            "teacher": "Бедрицкий С.А.",
+            "date": ""
+        },
+        {
+            "time": "17:40–19:00",
+            "remarks": "",
+            "subject": "Экспериментальная механика",
+            "lecture-practice": "л",
+            "room": "337",
+            "teacher": "Богданович А.В.",
+            "date": ""
+        },
+        {
+            "time": "19:10–20:30",
+            "remarks": "",
+            "subject": "Экспериментальная механика",
+            "lecture-practice": "л/лаб",
+            "room": "408",
+            "teacher": "Богданович А.В.",
+            "date": ""
+        }
+    ],
+    "Вторник": [
+        {
+            "time": "13:00–14:20",
+            "remarks": "",
+            "subject": "Механика жидкости и газа",
+            "lecture-practice": "л",
+            "room": "345",
+            "teacher": "Конон П.Н.",
+            "date": ""
+        },
+        {
+            "time": "14:30–15:50",
+            "remarks": "",
+            "subject": "Механика жидкости и газа",
+            "lecture-practice": "п",
+            "room": "345",
+            "teacher": "Конон П.Н.",
+            "date": ""
+        },
+        {
+            "time": "16:00–17:20",
+            "remarks": "1н",
+            "subject": "Компьютерное моделирование",
+            "lecture-practice": "л",
+            "room": "402а",
+            "teacher": "Николайчик М.А. ",
+            "date": ""
+        },
+        {
+            "time": "16:00–17:20",
+            "remarks": "2н",
+            "subject": "Доп. Главы.Основы CAD и CAE-технологий в механике. Основы ИИ в механике",
+            "lecture-practice": "л",
+            "room": "340",
+            "teacher": "Журавков М.А. / Николайчик М.А",
+            "date": ""
+        },
+        {
+            "time": "17:40–19:00",
+            "remarks": "",
+            "subject": "Белорусский язык",
+            "lecture-practice": "",
+            "room": "340",
+            "teacher": "Чернобровкина Н.В.",
+            "date": ""
+        },
+        {
+            "time": "19:10–20:30",
+            "remarks": "",
+            "subject": "Дополнительные главы прикладной механики",
+            "lecture-practice": "лаб",
+            "room": "330",
+            "teacher": "Чигарев А.В./ Чигарев В.А.",
+            "date": ""
+        }
+    ],
+    "Среда": [
+        {
+            "time": "13:00–14:20",
+            "remarks": "",
+            "subject": "Метод конечных элементов",
+            "lecture-practice": "л",
+            "room": "409",
+            "teacher": "Лопатин С.Н.",
+            "date": "(05.02-20.03)"
+        },
+        {
+            "time": "14:30–15:50",
+            "remarks": "",
+            "subject": "Метод конечных элементов",
+            "lecture-practice": "л",
+            "room": "409",
+            "teacher": "Лопатин С.Н.",
+            "date": "(05.02-20.03)"
+        },
+        {
+            "time": "14:30–15:50",
+            "remarks": "",
+            "subject": "ТВиМС",
+            "lecture-practice": "п",
+            "room": "340",
+            "teacher": "Чесалин В.И.",
+            "date": "(27.03-01.06)"
+        },
+        {
+            "time": "16:00–17:20",
+            "remarks": "",
+            "subject": "Метод конечных элементов",
+            "lecture-practice": "лаб",
+            "room": "409",
+            "teacher": "Лопатин С.Н.",
+            "date": "(05.02-20.03)"
+        },
+        {
+            "time": "16:00–17:20",
+            "remarks": "",
+            "subject": "Компьютерное моделирование",
+            "lecture-practice": "лаб",
+            "room": "409",
+            "teacher": "Николайчик М.А.",
+            "date": "(27.03-01.06)"
+        },
+        {
+            "time": "17:40–19:00",
+            "remarks": "",
+            "subject": "Метод конечных элементов",
+            "lecture-practice": "лаб",
+            "room": "409",
+            "teacher": "Лопатин С.Н.",
+            "date": "(05.02-20.03)"
+        },
+        {
+            "time": "17:40–19:00",
+            "remarks": "",
+            "subject": "Компьютерное моделирование",
+            "lecture-practice": "лаб",
+            "room": "409",
+            "teacher": "Николайчик М.А.",
+            "date": "(27.03-01.06)"
+        },
+        {
+            "time": "19:10–20:30",
+            "remarks": "",
+            "subject": "Доп. Главы.Основы CAD и CAE-технологий в механике. Основы ИИ в механике",
+            "lecture-practice": "лаб",
+            "room": "409",
+            "teacher": "Журавков М.А. / Николайчик М.А",
+            "date": ""
+        }
+    ],
+    "Четверг": [
+        {
+            "time": "13:00–14:20",
+            "remarks": "",
+            "subject": "ВП",
+            "lecture-practice": "",
+            "room": "",
+            "teacher": "",
+            "date": ""
+        },
+        {
+            "time": "16:00–17:20",
+            "remarks": "",
+            "subject": "Компьютерное моделирование",
+            "lecture-practice": "",
+            "room": "409",
+            "teacher": "Николайчик М.А.",
+            "date": "(11.04)"
+        }
+    ],
+    "Пятница": [
+        {
+            "time": "11:15–12:35",
+            "remarks": "",
+            "subject": "Китайский язык (10:40-12:00)",
+            "lecture-practice": "",
+            "room": "305/103 РИКК",
+            "teacher": "Комлёва Я.А. / Хромова Н.О.",
+            "date": ""
+        },
+        {
+            "time": "12:30-13:50",
+            "remarks": "",
+            "subject": "Физическая культура",
+            "lecture-practice": "",
+            "room": "",
+            "teacher": "",
+            "date": "(кроме 31.05)"
+        },
+        {
+            "time": "14:30–15:50",
+            "remarks": "",
+            "subject": "ВИиМО",
+            "lecture-practice": "л",
+            "room": "345",
+            "teacher": "Ромащенко Г.С.",
+            "date": ""
+        },
+        {
+            "time": "16:00–17:20",
+            "remarks": "",
+            "subject": "УМФ",
+            "lecture-practice": "л",
+            "room": "345",
+            "teacher": "Ковнацкая О.А.",
+            "date": ""
+        },
+        {
+            "time": "17:40–19:00",
+            "remarks": "",
+            "subject": "ТВиМС",
+            "lecture-practice": "л",
+            "room": "345",
+            "teacher": "Чесалин В.И.",
+            "date": ""
+        }
+    ],
+    "Суббота": [
+        {
+            "time": "09:45–11:05",
+            "remarks": "",
+            "subject": "Этническая и конфессиональная история Беларуси",
+            "lecture-practice": "л",
+            "room": "606",
+            "teacher": "Карпович Н.В.",
+            "date": "(02.03-30.03)"
+        },
+        {
+            "time": "09:45–11:05",
+            "remarks": "",
+            "subject": "Основы предпринимательской деятельности",
+            "lecture-practice": "л",
+            "room": "606",
+            "teacher": "Короткевич Л.М.",
+            "date": "(13.04-04.05)"
+        },
+        {
+            "time": "11:15–12:35",
+            "remarks": "",
+            "subject": "Этническая и конфессиональная история Беларуси",
+            "lecture-practice": "л",
+            "room": "606",
+            "teacher": "Карпович Н.В.",
+            "date": "(02.03-06.04)"
+        },
+        {
+            "time": "11:15–12:35",
+            "remarks": "",
+            "subject": "Основы предпринимательской деятельности",
+            "lecture-practice": "л",
+            "room": "606",
+            "teacher": "Короткевич Л.М.",
+            "date": "(13.04-04.05)"
+        },
+        {
+            "time": "13:00–14:20",
+            "remarks": "",
+            "subject": "Информационный/Кураторский час",
+            "lecture-practice": "",
+            "room": "344",
+            "teacher": "Макаева Т.А.",
+            "date": ""
+        },
+        {
+            "time": "14:30–15:50",
+            "remarks": "",
+            "subject": "Китайский язык",
+            "lecture-practice": "",
+            "room": "308/103 РИКК",
+            "teacher": "Ма Лина / Хромова Н.О.",
+            "date": ""
+        },
+        {
+            "time": "16:00–17:20",
+            "remarks": "",
+            "subject": "Физическая культура",
+            "lecture-practice": "",
+            "room": "",
+            "teacher": "",
+            "date": "(27.04)"
+        }
+    ]
+}

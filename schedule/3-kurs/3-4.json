@@ -1,0 +1,293 @@
+{
+    "Понедельник": [
+        {
+            "time": "12:30-13:50",
+            "remarks": "",
+            "subject": "Физическая культура",
+            "lecture-practice": "",
+            "room": "",
+            "teacher": "",
+            "date": ""
+        },
+        {
+            "time": "14:30–15:50",
+            "remarks": "",
+            "subject": "Основы математической кибернетики",
+            "lecture-practice": "л",
+            "room": "239",
+            "teacher": "Метельский Ю.М.",
+            "date": ""
+        },
+        {
+            "time": "16:00–17:20",
+            "remarks": "",
+            "subject": "Языки описания АПС",
+            "lecture-practice": "л/п",
+            "room": "417",
+            "teacher": "Трофимов С.А.",
+            "date": ""
+        },
+        {
+            "time": "17:40–19:00",
+            "remarks": "",
+            "subject": "ДС Основы микропроцессорной техники",
+            "lecture-practice": "л",
+            "room": "417",
+            "teacher": "Бухтояров С.Е.",
+            "date": ""
+        },
+        {
+            "time": "19:10–20:30",
+            "remarks": "",
+            "subject": "ДС Основы микропроцессорной техники",
+            "lecture-practice": "л/п",
+            "room": "417",
+            "teacher": "Бухтояров С.Е.",
+            "date": ""
+        }
+    ],
+    "Вторник": [
+        {
+            "time": "11:15–12:35",
+            "remarks": "",
+            "subject": "Основы математической кибернетики",
+            "lecture-practice": "п",
+            "room": "230",
+            "teacher": "Метельский Ю.М.",
+            "date": ""
+        },
+        {
+            "time": "13:00–14:20",
+            "remarks": "",
+            "subject": "Базы данных",
+            "lecture-practice": "л",
+            "room": "408",
+            "teacher": "Кремень Ю.А.",
+            "date": ""
+        },
+        {
+            "time": "14:30–15:50",
+            "remarks": "",
+            "subject": "Белорусский язык",
+            "lecture-practice": "",
+            "room": "344",
+            "teacher": "Ефимова Н.В.",
+            "date": ""
+        },
+        {
+            "time": "16:00–17:20",
+            "remarks": "",
+            "subject": "Операционные системы и среды",
+            "lecture-practice": "лаб",
+            "room": "417",
+            "teacher": "Бухтояров С.Е.",
+            "date": ""
+        },
+        {
+            "time": "17:40–19:00",
+            "remarks": "",
+            "subject": "Операционные системы и среды",
+            "lecture-practice": "лаб",
+            "room": "417",
+            "teacher": "Бухтояров С.Е.",
+            "date": ""
+        },
+        {
+            "time": "19:10–20:30",
+            "remarks": "",
+            "subject": "Информационный/Кураторский час",
+            "lecture-practice": "",
+            "room": "339",
+            "teacher": "Бухтояров С.Е.",
+            "date": ""
+        }
+    ],
+    "Среда": [
+        {
+            "time": "13:00–14:20",
+            "remarks": "2н",
+            "subject": "Основы математической кибернетики",
+            "lecture-practice": "л/п",
+            "room": "342",
+            "teacher": "Метельский Ю.М.",
+            "date": ""
+        },
+        {
+            "time": "14:30–15:50",
+            "remarks": "",
+            "subject": "УМФ",
+            "lecture-practice": "л/п",
+            "room": "341",
+            "teacher": "Гладков А.Л.",
+            "date": ""
+        },
+        {
+            "time": "16:00–17:20",
+            "remarks": "1н",
+            "subject": "УМФ",
+            "lecture-practice": "л/п",
+            "room": "341",
+            "teacher": "Гладков А.Л.",
+            "date": ""
+        },
+        {
+            "time": "16:00–17:20",
+            "remarks": "2н",
+            "subject": "Языки описания АПС",
+            "lecture-practice": "л/п",
+            "room": "417",
+            "teacher": "Трофимов С.А.",
+            "date": ""
+        },
+        {
+            "time": "17:40–19:00",
+            "remarks": "",
+            "subject": "ПЛИС",
+            "lecture-practice": "л",
+            "room": "417",
+            "teacher": "Трофимов С.А.",
+            "date": ""
+        },
+        {
+            "time": "19:10–20:30",
+            "remarks": "",
+            "subject": "ПЛИС",
+            "lecture-practice": "п",
+            "room": "417",
+            "teacher": "Трофимов С.А.",
+            "date": ""
+        }
+    ],
+    "Четверг": [
+        {
+            "time": "13:00–14:20",
+            "remarks": "",
+            "subject": "ВП",
+            "lecture-practice": "",
+            "room": "",
+            "teacher": "",
+            "date": ""
+        }
+    ],
+    "Пятница": [
+        {
+            "time": "12:30-13:50",
+            "remarks": "",
+            "subject": "Физическая культура",
+            "lecture-practice": "",
+            "room": "",
+            "teacher": "",
+            "date": "(кроме 31.05)"
+        },
+        {
+            "time": "14:30–15:50",
+            "remarks": "",
+            "subject": "ДС Синтез УС",
+            "lecture-practice": "л/п",
+            "room": "330",
+            "teacher": "Таразевич Ю.Г.",
+            "date": ""
+        },
+        {
+            "time": "16:00–17:20",
+            "remarks": "",
+            "subject": "Базы данных",
+            "lecture-practice": "лаб",
+            "room": "403",
+            "teacher": "Кремень Ю.А.",
+            "date": ""
+        },
+        {
+            "time": "17:40–19:00",
+            "remarks": "",
+            "subject": "Основы права",
+            "lecture-practice": "c",
+            "room": "237",
+            "teacher": "Хлус А.М.",
+            "date": "(15.03, 22.03, 05.04) "
+        },
+        {
+            "time": "17:40–19:00",
+            "remarks": "",
+            "subject": "Основы предпринимательской деятельности",
+            "lecture-practice": "с",
+            "room": "237",
+            "teacher": "Зеленковская Н.В.",
+            "date": "(26.04, 03.05)"
+        },
+        {
+            "time": "19:10–20:30",
+            "remarks": "",
+            "subject": "Основы права",
+            "lecture-practice": "c",
+            "room": "237",
+            "teacher": "Хлус А.М.",
+            "date": "(15.03, 22.03, 05.04)"
+        },
+        {
+            "time": "19:10–20:30",
+            "remarks": "",
+            "subject": "Основы предпринимательской деятельности",
+            "lecture-practice": "с",
+            "room": "237",
+            "teacher": "Зеленковская Н.В.",
+            "date": "(26.04, 03.05)"
+        }
+    ],
+    "Суббота": [
+        {
+            "time": "09:45–11:05",
+            "remarks": "",
+            "subject": "Основы права",
+            "lecture-practice": "л",
+            "room": "609",
+            "teacher": "Хлус А.М.",
+            "date": "(10.02-09.03)"
+        },
+        {
+            "time": "09:45–11:05",
+            "remarks": "",
+            "subject": "Основы предпринимательской деятельности",
+            "lecture-practice": "л",
+            "room": "609",
+            "teacher": "Зеленковская Н.В.",
+            "date": "(23.03-13.04)"
+        },
+        {
+            "time": "11:15–12:35",
+            "remarks": "",
+            "subject": "Основы права",
+            "lecture-practice": "л",
+            "room": "609",
+            "teacher": "Хлус А.М.",
+            "date": "(10.02-16.03)"
+        },
+        {
+            "time": "11:15–12:35",
+            "remarks": "",
+            "subject": "Основы предпринимательской деятельности",
+            "lecture-practice": "л",
+            "room": "609",
+            "teacher": "Зеленковская Н.В.",
+            "date": "(23.03-13.04)"
+        },
+        {
+            "time": "16:00–17:20",
+            "remarks": "",
+            "subject": "Физическая культура",
+            "lecture-practice": "",
+            "room": "",
+            "teacher": "",
+            "date": "(27.04)"
+        },
+        {
+            "time": "16:00–17:20",
+            "remarks": "",
+            "subject": "Основы предпринимательской деятельности",
+            "lecture-practice": "с",
+            "room": "237",
+            "teacher": "Зеленковская Н.В.",
+            "date": "(04.05)"
+        }
+    ]
+}

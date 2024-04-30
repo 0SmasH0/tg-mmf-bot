@@ -1,0 +1,327 @@
+{
+    "Понедельник": [
+        {
+            "time": "8:00-9:20",
+            "remarks": "",
+            "subject": "Физическая культура",
+            "lecture-practice": "",
+            "room": "",
+            "teacher": "",
+            "date": ""
+        },
+        {
+            "time": "09:45–11:05",
+            "remarks": "а",
+            "subject": "ДС Разработка приложений для iOS",
+            "lecture-practice": "лаб",
+            "room": "410",
+            "teacher": "Дерюшев А.А.",
+            "date": ""
+        },
+        {
+            "time": "11:15–12:35",
+            "remarks": "",
+            "subject": "Анализ и проектирование информационных систем",
+            "lecture-practice": "л",
+            "room": "609",
+            "teacher": "Блинов И.Н.",
+            "date": ""
+        },
+        {
+            "time": "13:00–14:20",
+            "remarks": "",
+            "subject": "Технологии программирования",
+            "lecture-practice": "л",
+            "room": "609 (15.04 — 247)",
+            "teacher": "Блинов И.Н.",
+            "date": ""
+        },
+        {
+            "time": "14:30–15:50",
+            "remarks": "А",
+            "subject": "Английский язык",
+            "lecture-practice": "",
+            "room": "341",
+            "teacher": "Шинкевич А.И.",
+            "date": ""
+        },
+        {
+            "time": "14:30–15:50",
+            "remarks": "Б",
+            "subject": "Английский язык",
+            "lecture-practice": "",
+            "room": "342",
+            "teacher": "Буславская М.С.",
+            "date": ""
+        }
+    ],
+    "Вторник": [
+        {
+            "time": "09:45–11:05",
+            "remarks": "а",
+            "subject": "Технологии программирования",
+            "lecture-practice": "лаб",
+            "room": "403",
+            "teacher": "Кремень Е.В.",
+            "date": ""
+        },
+        {
+            "time": "09:45–11:05",
+            "remarks": "б",
+            "subject": "ДС Разработка приложений для iOS",
+            "lecture-practice": "лаб",
+            "room": "410",
+            "teacher": "Дерюшев А.А.",
+            "date": ""
+        },
+        {
+            "time": "11:15–12:35",
+            "remarks": "",
+            "subject": "Дискретная математика и мат. логика",
+            "lecture-practice": "п",
+            "room": "345",
+            "teacher": "Таразевич Ю.Г.",
+            "date": ""
+        },
+        {
+            "time": "13:00–14:20",
+            "remarks": "А",
+            "subject": "Английский язык",
+            "lecture-practice": "",
+            "room": "340",
+            "teacher": "Шинкевич А.И.",
+            "date": ""
+        },
+        {
+            "time": "13:00–14:20",
+            "remarks": "Б",
+            "subject": "Английский язык",
+            "lecture-practice": "",
+            "room": "339",
+            "teacher": "Буславская М.С.",
+            "date": ""
+        },
+        {
+            "time": "14:30–15:50",
+            "remarks": "а",
+            "subject": "Анализ и проектирование информационных систем",
+            "lecture-practice": "лаб",
+            "room": "404",
+            "teacher": "Блинов И.Н.",
+            "date": ""
+        },
+        {
+            "time": "14:30–15:50",
+            "remarks": "б",
+            "subject": "Технологии программирования",
+            "lecture-practice": "лаб",
+            "room": "409",
+            "teacher": "Вельченко С.А.",
+            "date": ""
+        }
+    ],
+    "Среда": [
+        {
+            "time": "09:45–11:05",
+            "remarks": "",
+            "subject": "Вычислительная геометрия и компьютерная графика",
+            "lecture-practice": "л",
+            "room": "606",
+            "teacher": "Вылегжанин Д.В.",
+            "date": "(07.02-01.05)"
+        },
+        {
+            "time": "11:15–12:35",
+            "remarks": "1н",
+            "subject": "Веб-программирование",
+            "lecture-practice": "л",
+            "room": "609",
+            "teacher": "Романчик В.С.",
+            "date": ""
+        },
+        {
+            "time": "11:15–12:35",
+            "remarks": "2н",
+            "subject": "Численные методы",
+            "lecture-practice": "л",
+            "room": "609",
+            "teacher": "Игнатенко М.В.",
+            "date": ""
+        },
+        {
+            "time": "13:00–14:20",
+            "remarks": "1н",
+            "subject": "Дифференциальные уравнения",
+            "lecture-practice": "л",
+            "room": "609",
+            "teacher": "Василевич М.Н.",
+            "date": ""
+        },
+        {
+            "time": "13:00–14:20",
+            "remarks": "2н",
+            "subject": "Базы данных",
+            "lecture-practice": "л",
+            "room": "609",
+            "teacher": "Кремень Ю.А.",
+            "date": ""
+        },
+        {
+            "time": "14:30–15:50",
+            "remarks": "",
+            "subject": "Информационный/Кураторский час",
+            "lecture-practice": "",
+            "room": "410",
+            "teacher": "Кремень Ю.А.",
+            "date": ""
+        }
+    ],
+    "Четверг": [
+        {
+            "time": "08:15–09:35",
+            "remarks": "б",
+            "subject": "Анализ и проектирование информационных систем",
+            "lecture-practice": "лаб",
+            "room": "407",
+            "teacher": "Филимон Н.Д.",
+            "date": ""
+        },
+        {
+            "time": "09:45–11:05",
+            "remarks": "",
+            "subject": "Вычислительная геометрия и компьютерная графика",
+            "lecture-practice": "лаб",
+            "room": "407",
+            "teacher": "Куница В.Н.",
+            "date": "(08.02-02.05)"
+        },
+        {
+            "time": "11:15–12:35",
+            "remarks": "2н б",
+            "subject": "Веб-программирование",
+            "lecture-practice": "лаб",
+            "room": "408",
+            "teacher": "Романчик В.С.",
+            "date": ""
+        },
+        {
+            "time": "11:15–12:35",
+            "remarks": "1н а",
+            "subject": "Веб-программирование",
+            "lecture-practice": "лаб",
+            "room": "408",
+            "teacher": "Романчик В.С.",
+            "date": ""
+        },
+        {
+            "time": "11:15–12:35",
+            "remarks": "1н б",
+            "subject": "Численные методы",
+            "lecture-practice": "лаб",
+            "room": "407",
+            "teacher": "Игнатенко М.В.",
+            "date": ""
+        },
+        {
+            "time": "11:15–12:35",
+            "remarks": "2н а",
+            "subject": "Численные методы",
+            "lecture-practice": "лаб",
+            "room": "407",
+            "teacher": "Игнатенко М.В.",
+            "date": ""
+        },
+        {
+            "time": "13:00–14:20",
+            "remarks": "1н",
+            "subject": "Дискретная математика и мат. логика",
+            "lecture-practice": "л",
+            "room": "345",
+            "teacher": "Таразевич Ю.Г.",
+            "date": ""
+        },
+        {
+            "time": "13:00–14:20",
+            "remarks": "2н",
+            "subject": "Теория функций комплексного переменного",
+            "lecture-practice": "п",
+            "room": "345",
+            "teacher": "Павловский В.А.",
+            "date": ""
+        },
+        {
+            "time": "15:00-16:20",
+            "remarks": "",
+            "subject": "Физическая культура",
+            "lecture-practice": "",
+            "room": "",
+            "teacher": "",
+            "date": ""
+        },
+        {
+            "time": "16:00–17:20",
+            "remarks": "",
+            "subject": "Физическая культура",
+            "lecture-practice": "л",
+            "room": "д/о",
+            "teacher": "",
+            "date": "(25.04)"
+        }
+    ],
+    "Пятница": [
+        {
+            "time": "08:15–09:35",
+            "remarks": "1н",
+            "subject": "Теория функций комплексного переменного",
+            "lecture-practice": "л",
+            "room": "609",
+            "teacher": "Павловский В.А.",
+            "date": ""
+        },
+        {
+            "time": "09:45–11:05",
+            "remarks": "",
+            "subject": "ДС Разработка приложений для iOS",
+            "lecture-practice": "л",
+            "room": "410",
+            "teacher": "Дерюшев А.А.",
+            "date": ""
+        },
+        {
+            "time": "11:15–12:35",
+            "remarks": "",
+            "subject": "Дифференциальные уравнения",
+            "lecture-practice": "п",
+            "room": "345",
+            "teacher": "Садовский А.П.",
+            "date": ""
+        },
+        {
+            "time": "13:00–14:20",
+            "remarks": "2н",
+            "subject": "Дифференциальные уравнения",
+            "lecture-practice": "п",
+            "room": "345",
+            "teacher": "Садовский А.П.",
+            "date": ""
+        },
+        {
+            "time": "13:00–14:20",
+            "remarks": "1н б",
+            "subject": "Базы данных",
+            "lecture-practice": "лаб",
+            "room": "410",
+            "teacher": "Кремень Ю.А.",
+            "date": ""
+        },
+        {
+            "time": "14:30–15:50",
+            "remarks": "2н а",
+            "subject": "Базы данных",
+            "lecture-practice": "лаб",
+            "room": "410",
+            "teacher": "Кремень Ю.А.",
+            "date": ""
+        }
+    ]
+}

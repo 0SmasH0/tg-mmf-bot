@@ -1,0 +1,309 @@
+{
+    "Понедельник": [
+        {
+            "time": "09:45–11:05",
+            "remarks": "А",
+            "subject": "Английский язык",
+            "lecture-practice": "",
+            "room": "340",
+            "teacher": "Столярова Е.Ю.",
+            "date": ""
+        },
+        {
+            "time": "09:45–11:05",
+            "remarks": "Б",
+            "subject": "Английский язык",
+            "lecture-practice": "",
+            "room": "341",
+            "teacher": "Шинкевич А.И.",
+            "date": ""
+        },
+        {
+            "time": "09:45–11:05",
+            "remarks": "В",
+            "subject": "Английский язык",
+            "lecture-practice": "",
+            "room": "342",
+            "teacher": "Буславская М.С.",
+            "date": ""
+        },
+        {
+            "time": "11:15–12:35",
+            "remarks": "",
+            "subject": "Дифференциальные уравнения",
+            "lecture-practice": "л",
+            "room": "348",
+            "teacher": "Красовский С.Г.",
+            "date": ""
+        },
+        {
+            "time": "13:00–14:20",
+            "remarks": "",
+            "subject": "Дифференциальные уравнения",
+            "lecture-practice": "п",
+            "room": "342",
+            "teacher": "Красовский С.Г.",
+            "date": ""
+        },
+        {
+            "time": "14:30–15:50",
+            "remarks": "а",
+            "subject": "Технологии программирования",
+            "lecture-practice": "лаб",
+            "room": "405",
+            "teacher": "Расолько Г.А.",
+            "date": ""
+        }
+    ],
+    "Вторник": [
+        {
+            "time": "09:45–11:05",
+            "remarks": "",
+            "subject": "Теория функций комплексного переменного",
+            "lecture-practice": "л",
+            "room": "347",
+            "teacher": "Карпович Н.И.",
+            "date": ""
+        },
+        {
+            "time": "11:15–12:35",
+            "remarks": "Сп1",
+            "subject": "ДС Классические аспекты высшей матем.",
+            "lecture-practice": "л/п",
+            "room": "349",
+            "teacher": "Воронович И.И.",
+            "date": ""
+        },
+        {
+            "time": "11:15–12:35",
+            "remarks": "Сп2",
+            "subject": "ДС Методы решения и когнитивной визуализации матем. задач",
+            "lecture-practice": "л/п",
+            "room": "348",
+            "teacher": "Карпова А.П.",
+            "date": ""
+        },
+        {
+            "time": "13:00–14:20",
+            "remarks": "Сп1",
+            "subject": "ДС Классические аспекты высшей матем.",
+            "lecture-practice": "л/п",
+            "room": "349",
+            "teacher": "Воронович И.И.",
+            "date": ""
+        },
+        {
+            "time": "13:00–14:20",
+            "remarks": "Сп2",
+            "subject": "ДС Методы решения и когнитивной визуализации матем. задач",
+            "lecture-practice": "л/п",
+            "room": "348",
+            "teacher": "Карпова А.П.",
+            "date": ""
+        },
+        {
+            "time": "15:00-16:20",
+            "remarks": "",
+            "subject": "Физическая культура",
+            "lecture-practice": "",
+            "room": "",
+            "teacher": "",
+            "date": ""
+        }
+    ],
+    "Среда": [
+        {
+            "time": "08:15–09:35",
+            "remarks": "б",
+            "subject": "Технологии программирования",
+            "lecture-practice": "лаб",
+            "room": "405",
+            "teacher": "Расолько Г.А.",
+            "date": ""
+        },
+        {
+            "time": "09:45–11:05",
+            "remarks": "",
+            "subject": "Теория функций комплексного переменного",
+            "lecture-practice": "лаб",
+            "room": "339",
+            "teacher": "Карпович Н.И.",
+            "date": ""
+        },
+        {
+            "time": "11:15–12:35",
+            "remarks": "",
+            "subject": "Технологии программирования",
+            "lecture-practice": "л",
+            "room": "405",
+            "teacher": "Расолько Г.А.",
+            "date": ""
+        },
+        {
+            "time": "13:00–14:20",
+            "remarks": "",
+            "subject": "Дифференциальная геометрия и топология",
+            "lecture-practice": "лаб",
+            "room": "344",
+            "teacher": "Куница В.Н.",
+            "date": ""
+        }
+    ],
+    "Четверг": [
+        {
+            "time": "08:15–09:35",
+            "remarks": "1н",
+            "subject": "Базы данных",
+            "lecture-practice": "л",
+            "room": "606",
+            "teacher": "Кремень Ю.А.",
+            "date": ""
+        },
+        {
+            "time": "08:15–09:35",
+            "remarks": "2н",
+            "subject": "Введение в веб-программирование",
+            "lecture-practice": "л",
+            "room": "404",
+            "teacher": "Кремень Е.В.",
+            "date": ""
+        },
+        {
+            "time": "09:45–11:05",
+            "remarks": "",
+            "subject": "Дифференциальная геометрия и топология",
+            "lecture-practice": "л",
+            "room": "348",
+            "teacher": "Кукрак Г.О.",
+            "date": ""
+        },
+        {
+            "time": "11:15–12:35",
+            "remarks": "1н а",
+            "subject": "Введение в веб-программирование",
+            "lecture-practice": "лаб",
+            "room": "405",
+            "teacher": "Кремень Е.В.",
+            "date": ""
+        },
+        {
+            "time": "11:15–12:35",
+            "remarks": "2н б",
+            "subject": "Введение в веб-программирование",
+            "lecture-practice": "лаб",
+            "room": "405",
+            "teacher": "Кремень Е.В.",
+            "date": ""
+        },
+        {
+            "time": "11:15–12:35",
+            "remarks": "1н б",
+            "subject": "Базы данных",
+            "lecture-practice": "лаб",
+            "room": "404",
+            "teacher": "Кремень Ю.А.",
+            "date": ""
+        },
+        {
+            "time": "11:15–12:35",
+            "remarks": "2н а",
+            "subject": "Базы данных",
+            "lecture-practice": "лаб",
+            "room": "404",
+            "teacher": "Кремень Ю.А.",
+            "date": ""
+        },
+        {
+            "time": "13:00–14:20",
+            "remarks": "А",
+            "subject": "Английский язык",
+            "lecture-practice": "",
+            "room": "342",
+            "teacher": "Столярова Е.Ю.",
+            "date": ""
+        },
+        {
+            "time": "13:00–14:20",
+            "remarks": "Б",
+            "subject": "Английский язык",
+            "lecture-practice": "",
+            "room": "344",
+            "teacher": "Шинкевич А.И.",
+            "date": ""
+        },
+        {
+            "time": "13:00–14:20",
+            "remarks": "В",
+            "subject": "Английский язык",
+            "lecture-practice": "",
+            "room": "347",
+            "teacher": "Буславская М.С.",
+            "date": ""
+        },
+        {
+            "time": "14:30–15:50",
+            "remarks": "1н",
+            "subject": "ДВО Математическая логика",
+            "lecture-practice": "л",
+            "room": "344",
+            "teacher": "Каскевич В.И.",
+            "date": ""
+        },
+        {
+            "time": "14:30–15:50",
+            "remarks": "2н",
+            "subject": "ДВО Математическая логика",
+            "lecture-practice": "п",
+            "room": "344",
+            "teacher": "Каскевич В.И.",
+            "date": ""
+        },
+        {
+            "time": "16:00–17:20",
+            "remarks": "",
+            "subject": "Физическая культура",
+            "lecture-practice": "л",
+            "room": "д/о",
+            "teacher": "",
+            "date": "(25.04)"
+        }
+    ],
+    "Пятница": [
+        {
+            "time": "8:00-9:20",
+            "remarks": "",
+            "subject": "Физическая культура",
+            "lecture-practice": "",
+            "room": "",
+            "teacher": "",
+            "date": ""
+        },
+        {
+            "time": "09:45–11:05",
+            "remarks": "",
+            "subject": "Психология",
+            "lecture-practice": "л",
+            "room": "349",
+            "teacher": "Галуза А.В.",
+            "date": ""
+        },
+        {
+            "time": "11:15–12:35",
+            "remarks": "",
+            "subject": "Психология",
+            "lecture-practice": "п",
+            "room": "349",
+            "teacher": "Галуза А.В.",
+            "date": ""
+        },
+        {
+            "time": "14:30–15:50",
+            "remarks": "",
+            "subject": "Информационный/Кураторский час",
+            "lecture-practice": "",
+            "room": "341",
+            "teacher": "Куница В.Н.",
+            "date": ""
+        }
+    ]
+}

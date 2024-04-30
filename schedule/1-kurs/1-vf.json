@@ -1,0 +1,44 @@
+{
+    "Вторник": [
+        {
+            "time": "14:30–15:50",
+            "remarks": "",
+            "subject": "Алгебра",
+            "lecture-practice": "п",
+            "room": "353",
+            "teacher": "Воронович И.И.",
+            "date": ""
+        }
+    ],
+    "Среда": [
+        {
+            "time": "13:00–14:20",
+            "remarks": "",
+            "subject": "ДС-2",
+            "lecture-practice": "п",
+            "room": "330",
+            "teacher": "Воронович И.И.",
+            "date": ""
+        }
+    ],
+    "Пятница": [
+        {
+            "time": "13:00–14:20",
+            "remarks": "",
+            "subject": "Алгебра",
+            "lecture-practice": "л",
+            "room": "237",
+            "teacher": "Воронович И.И.",
+            "date": ""
+        },
+        {
+            "time": "14:30–15:50",
+            "remarks": "",
+            "subject": "Алгебра",
+            "lecture-practice": "п",
+            "room": "237",
+            "teacher": "Воронович И.И.",
+            "date": ""
+        }
+    ]
+}

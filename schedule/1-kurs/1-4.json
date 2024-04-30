@@ -1,0 +1,320 @@
+{
+    "Понедельник": [
+        {
+            "time": "08:15–09:35",
+            "remarks": "А",
+            "subject": "Английский язык",
+            "lecture-practice": "",
+            "room": "330",
+            "teacher": "Потапова Н.Л.",
+            "date": ""
+        },
+        {
+            "time": "08:15–09:35",
+            "remarks": "Б",
+            "subject": "Английский язык",
+            "lecture-practice": "",
+            "room": "334",
+            "teacher": "Иговина А.В",
+            "date": ""
+        },
+        {
+            "time": "08:15–09:35",
+            "remarks": "В",
+            "subject": "Английский язык",
+            "lecture-practice": "",
+            "room": "410",
+            "teacher": "Кашкан Т.А.",
+            "date": "(кроме 20.05)"
+        },
+        {
+            "time": "09:45–11:05",
+            "remarks": "",
+            "subject": "Аналитическая геометрия",
+            "lecture-practice": "л",
+            "room": "332",
+            "teacher": "Базылев Д.Ф.",
+            "date": ""
+        },
+        {
+            "time": "11:15–12:35",
+            "remarks": "",
+            "subject": "Аналитическая геометрия",
+            "lecture-practice": "п",
+            "room": "341",
+            "teacher": "Базылев Д.Ф.",
+            "date": ""
+        },
+        {
+            "time": "13:00–14:20",
+            "remarks": "а",
+            "subject": "Компьютерная математика",
+            "lecture-practice": "лаб",
+            "room": "405",
+            "teacher": "Лаврова О.А.",
+            "date": ""
+        },
+        {
+            "time": "13:00–14:20",
+            "remarks": "б",
+            "subject": "Компьютерная математика",
+            "lecture-practice": "лаб",
+            "room": "408",
+            "teacher": "Синдаров В.Р.",
+            "date": ""
+        },
+        {
+            "time": "14:30–15:50",
+            "remarks": "",
+            "subject": "Математический анализ",
+            "lecture-practice": "п",
+            "room": "338",
+            "teacher": "Громак Е.В.",
+            "date": ""
+        }
+    ],
+    "Вторник": [
+        {
+            "time": "08:15–09:35",
+            "remarks": "1н",
+            "subject": "Алгоритмы и структуры данных",
+            "lecture-practice": "л",
+            "room": "120 (238 до 22.04)",
+            "teacher": "Атрохов К.Г.",
+            "date": ""
+        },
+        {
+            "time": "09:45–11:05",
+            "remarks": "",
+            "subject": "Алгебра и теория чисел",
+            "lecture-practice": "л",
+            "room": "338",
+            "teacher": "Курсов В.В.",
+            "date": ""
+        },
+        {
+            "time": "11:15–12:35",
+            "remarks": "",
+            "subject": "Математический анализ",
+            "lecture-practice": "п",
+            "room": "341",
+            "teacher": "Громак Е.В.",
+            "date": ""
+        },
+        {
+            "time": "13:20-14:40",
+            "remarks": "",
+            "subject": "Физическая культура",
+            "lecture-practice": "",
+            "room": "",
+            "teacher": "",
+            "date": ""
+        },
+        {
+            "time": "16:00–17:20",
+            "remarks": "",
+            "subject": "Немецкий язык",
+            "lecture-practice": "",
+            "room": "355",
+            "teacher": "Зубовская Н.К.",
+            "date": ""
+        }
+    ],
+    "Среда": [
+        {
+            "time": "08:15–09:35",
+            "remarks": "",
+            "subject": "Методы программирования",
+            "lecture-practice": "л",
+            "room": "609",
+            "teacher": "Аленский Н.А.",
+            "date": ""
+        },
+        {
+            "time": "09:45–11:05",
+            "remarks": "а",
+            "subject": "Методы программирования",
+            "lecture-practice": "лаб",
+            "room": "407",
+            "teacher": "Аленский Н.А.",
+            "date": ""
+        },
+        {
+            "time": "09:45–11:05",
+            "remarks": "б",
+            "subject": "Методы программирования",
+            "lecture-practice": "лаб",
+            "room": "409",
+            "teacher": "Листопад Г.И.",
+            "date": ""
+        },
+        {
+            "time": "11:15–12:35",
+            "remarks": "",
+            "subject": "Алгебра и теория чисел",
+            "lecture-practice": "п",
+            "room": "330",
+            "teacher": "Курсов В.В.",
+            "date": ""
+        },
+        {
+            "time": "13:00–14:20",
+            "remarks": "",
+            "subject": "Математический анализ",
+            "lecture-practice": "л",
+            "room": "332",
+            "teacher": "Долгополова О.Б.",
+            "date": ""
+        },
+        {
+            "time": "16:00–17:20",
+            "remarks": "",
+            "subject": "Французский язык (16:20-17:40)",
+            "lecture-practice": "",
+            "room": "204 ФЖ",
+            "teacher": "Лабкович О.Ю.",
+            "date": ""
+        }
+    ],
+    "Четверг": [
+        {
+            "time": "09:45–11:05",
+            "remarks": "а",
+            "subject": "Алгоритмы и структуры данных",
+            "lecture-practice": "лаб",
+            "room": "404",
+            "teacher": "Атрохов К.Г.",
+            "date": ""
+        },
+        {
+            "time": "11:15–12:35",
+            "remarks": "",
+            "subject": "Социология",
+            "lecture-practice": "п",
+            "room": "344",
+            "teacher": "Волнистая М.Г.",
+            "date": ""
+        },
+        {
+            "time": "13:00–14:20",
+            "remarks": "А",
+            "subject": "Английский язык",
+            "lecture-practice": "",
+            "room": "340",
+            "teacher": "Потапова Н.Л.",
+            "date": ""
+        },
+        {
+            "time": "13:00–14:20",
+            "remarks": "Б",
+            "subject": "Английский язык",
+            "lecture-practice": "",
+            "room": "341",
+            "teacher": "Иговина А.В",
+            "date": ""
+        },
+        {
+            "time": "13:00–14:20",
+            "remarks": "В",
+            "subject": "Английский язык",
+            "lecture-practice": "",
+            "room": "410",
+            "teacher": "Кашкан Т.А.",
+            "date": ""
+        },
+        {
+            "time": "16:00–17:20",
+            "remarks": "",
+            "subject": "Физическая культура",
+            "lecture-practice": "л",
+            "room": "д/о",
+            "teacher": "",
+            "date": "(18.04)"
+        },
+        {
+            "time": "16:00–17:20",
+            "remarks": "",
+            "subject": "Французский язык (16:20-17:40)",
+            "lecture-practice": "",
+            "room": "204 ФЖ",
+            "teacher": "Лабкович О.Ю.",
+            "date": ""
+        },
+        {
+            "time": "16:00–17:20",
+            "remarks": "",
+            "subject": "Немецкий язык",
+            "lecture-practice": "",
+            "room": "353",
+            "teacher": "Зубовская Н.К. ",
+            "date": ""
+        }
+    ],
+    "Пятница": [
+        {
+            "time": "08:15–09:35",
+            "remarks": "",
+            "subject": "Аналитическая геометрия (до 9:00)",
+            "lecture-practice": "п",
+            "room": "345",
+            "teacher": "Базылев Д.Ф.",
+            "date": "(9.02, 16.02, 23.02, 01.03)"
+        },
+        {
+            "time": "9.30-10.50",
+            "remarks": "",
+            "subject": "Физическая культура",
+            "lecture-practice": "",
+            "room": "",
+            "teacher": "",
+            "date": ""
+        },
+        {
+            "time": "11:15–12:35",
+            "remarks": "",
+            "subject": "Математический анализ",
+            "lecture-practice": "л",
+            "room": "332",
+            "teacher": "Долгополова О.Б.",
+            "date": ""
+        },
+        {
+            "time": "13:00–14:20",
+            "remarks": "",
+            "subject": "Компьютерная математика",
+            "lecture-practice": "л",
+            "room": "332",
+            "teacher": "Лаврова О.А.",
+            "date": ""
+        },
+        {
+            "time": "14:30–15:50",
+            "remarks": "",
+            "subject": "Социология",
+            "lecture-practice": "л",
+            "room": "606 (19.04 — 238)",
+            "teacher": "Волнистая М.Г.",
+            "date": ""
+        },
+        {
+            "time": "16:00–17:20",
+            "remarks": "",
+            "subject": "Информационный/Кураторский час",
+            "lecture-practice": "",
+            "room": "351",
+            "teacher": "Щеглова Н.Л.",
+            "date": ""
+        }
+    ],
+    "Суббота": [
+        {
+            "time": "08:15–09:35",
+            "remarks": "б",
+            "subject": "Алгоритмы и структуры данных",
+            "lecture-practice": "лаб",
+            "room": "405",
+            "teacher": "Василюк Н.Г.",
+            "date": ""
+        }
+    ]
+}

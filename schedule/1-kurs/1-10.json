@@ -1,0 +1,266 @@
+{
+    "Понедельник": [
+        {
+            "time": "09:45–11:05",
+            "remarks": "",
+            "subject": "Математический анализ",
+            "lecture-practice": "лаб",
+            "room": "337",
+            "teacher": "Стриленко А.Д.",
+            "date": ""
+        },
+        {
+            "time": "11:15–12:35",
+            "remarks": "",
+            "subject": "Русский язык",
+            "lecture-practice": "",
+            "room": "340",
+            "teacher": "Кицун Л.С.",
+            "date": ""
+        },
+        {
+            "time": "13:00–14:20",
+            "remarks": "",
+            "subject": "Русский язык",
+            "lecture-practice": "",
+            "room": "340",
+            "teacher": "Кицун Л.С.",
+            "date": ""
+        },
+        {
+            "time": "14:30–15:50",
+            "remarks": "",
+            "subject": "Алгебра и теория чисел",
+            "lecture-practice": "лаб",
+            "room": "340",
+            "teacher": "Иванов К.А.",
+            "date": ""
+        }
+    ],
+    "Вторник": [
+        {
+            "time": "08:15–09:35",
+            "remarks": "",
+            "subject": "Методы программирования",
+            "lecture-practice": "лаб",
+            "room": "404",
+            "teacher": "Кремень Ю.А.",
+            "date": ""
+        },
+        {
+            "time": "09:45–11:05",
+            "remarks": "",
+            "subject": "Дискретная математика",
+            "lecture-practice": "л",
+            "room": "332",
+            "teacher": "Таразевич Ю.Г.",
+            "date": ""
+        },
+        {
+            "time": "11:15–12:35",
+            "remarks": "",
+            "subject": "Математический анализ",
+            "lecture-practice": "л",
+            "room": "332",
+            "teacher": "Бровка Н.В.",
+            "date": ""
+        },
+        {
+            "time": "13:20-14:40",
+            "remarks": "",
+            "subject": "Физическая культура",
+            "lecture-practice": "",
+            "room": "",
+            "teacher": "",
+            "date": ""
+        }
+    ],
+    "Среда": [
+        {
+            "time": "08:15–09:35",
+            "remarks": "",
+            "subject": "Практикум по программированию",
+            "lecture-practice": "п",
+            "room": "403",
+            "teacher": "Кремень Ю.А.",
+            "date": ""
+        },
+        {
+            "time": "09:45–11:05",
+            "remarks": "",
+            "subject": "Методы программирования",
+            "lecture-practice": "л",
+            "room": "120 (238 до 22.04)",
+            "teacher": "Расолько Г.А.",
+            "date": ""
+        },
+        {
+            "time": "11:15–12:35",
+            "remarks": "",
+            "subject": "Компьютерная математика",
+            "lecture-practice": "л",
+            "room": "606",
+            "teacher": "Щеглова Н.Л.",
+            "date": ""
+        },
+        {
+            "time": "13:00–14:20",
+            "remarks": "",
+            "subject": "Аналитическая геометрия",
+            "lecture-practice": "лаб",
+            "room": "340",
+            "teacher": "Кукрак Г.О.",
+            "date": ""
+        },
+        {
+            "time": "14:30–15:50",
+            "remarks": "",
+            "subject": "Методы классифик. и решения мат. задач",
+            "lecture-practice": "л",
+            "room": "338",
+            "teacher": "Карпова А.П.",
+            "date": "(14.02, 21.02, 28.02)"
+        },
+        {
+            "time": "14:30–15:50",
+            "remarks": "",
+            "subject": "Методы классифик. и решения мат. задач",
+            "lecture-practice": "п",
+            "room": "338",
+            "teacher": "Карпова А.П.",
+            "date": "(13.03, 27.03)"
+        },
+        {
+            "time": "16:00–17:20",
+            "remarks": "",
+            "subject": "Информационный/Кураторский час",
+            "lecture-practice": "",
+            "room": "347",
+            "teacher": "Кукрак Г.О.",
+            "date": ""
+        }
+    ],
+    "Четверг": [
+        {
+            "time": "08:15–09:35",
+            "remarks": "",
+            "subject": "Аналитическая геометрия",
+            "lecture-practice": "л",
+            "room": "332",
+            "teacher": "Кукрак Г.О.",
+            "date": ""
+        },
+        {
+            "time": "09:45–11:05",
+            "remarks": "",
+            "subject": "Алгебра и теория чисел",
+            "lecture-practice": "л",
+            "room": "330",
+            "teacher": "Курсов В.В.",
+            "date": ""
+        },
+        {
+            "time": "11:15–12:35",
+            "remarks": "",
+            "subject": "Математический анализ",
+            "lecture-practice": "л",
+            "room": "332",
+            "teacher": "Бровка Н.В.",
+            "date": ""
+        },
+        {
+            "time": "13:00–14:20",
+            "remarks": "",
+            "subject": "Математический анализ",
+            "lecture-practice": "лаб",
+            "room": "334",
+            "teacher": "Стриленко А.Д.",
+            "date": ""
+        },
+        {
+            "time": "14:30–15:50",
+            "remarks": "",
+            "subject": "Дискретная математика",
+            "lecture-practice": "лаб",
+            "room": "334",
+            "teacher": "Таразевич Ю.Г.",
+            "date": ""
+        },
+        {
+            "time": "16:00–17:20",
+            "remarks": "",
+            "subject": "Физическая культура",
+            "lecture-practice": "л",
+            "room": "д/о",
+            "teacher": "",
+            "date": "(18.04)"
+        }
+    ],
+    "Пятница": [
+        {
+            "time": "9.30-10.50",
+            "remarks": "",
+            "subject": "Физическая культура",
+            "lecture-practice": "",
+            "room": "",
+            "teacher": "",
+            "date": ""
+        },
+        {
+            "time": "11:15–12:35",
+            "remarks": "",
+            "subject": "Русский язык",
+            "lecture-practice": "",
+            "room": "344",
+            "teacher": "Кицун Л.С.",
+            "date": ""
+        },
+        {
+            "time": "13:00–14:20",
+            "remarks": "",
+            "subject": "Русский язык",
+            "lecture-practice": "",
+            "room": "344",
+            "teacher": "Кицун Л.С.",
+            "date": ""
+        },
+        {
+            "time": "14:30–15:50",
+            "remarks": "",
+            "subject": "Социология",
+            "lecture-practice": "л",
+            "room": "606 (19.04 — 238)",
+            "teacher": "Волнистая М.Г.",
+            "date": ""
+        },
+        {
+            "time": "16:00–17:20",
+            "remarks": "",
+            "subject": "Социология",
+            "lecture-practice": "п",
+            "room": "344",
+            "teacher": "Волнистая М.Г.",
+            "date": ""
+        }
+    ],
+    "Суббота": [
+        {
+            "time": "09:45–11:05",
+            "remarks": "а",
+            "subject": "Компьютерная математика",
+            "lecture-practice": "лаб",
+            "room": "407",
+            "teacher": "Азаров Н.А.",
+            "date": ""
+        },
+        {
+            "time": "11:15–12:35",
+            "remarks": "б",
+            "subject": "Компьютерная математика",
+            "lecture-practice": "лаб",
+            "room": "407",
+            "teacher": "Азаров Н.А.",
+            "date": ""
+        }
+    ]
+}

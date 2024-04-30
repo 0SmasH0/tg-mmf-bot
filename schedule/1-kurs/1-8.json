@@ -1,0 +1,374 @@
+{
+    "Понедельник": [
+        {
+            "time": "08:15–09:35",
+            "remarks": "",
+            "subject": "Математический анализ",
+            "lecture-practice": "п",
+            "room": "337",
+            "teacher": "Стриленко А.Д.",
+            "date": ""
+        },
+        {
+            "time": "09:45–11:05",
+            "remarks": "А",
+            "subject": "Английский язык",
+            "lecture-practice": "",
+            "room": "330",
+            "teacher": "Потапова Н.Л.",
+            "date": ""
+        },
+        {
+            "time": "09:45–11:05",
+            "remarks": "Б",
+            "subject": "Английский язык",
+            "lecture-practice": "",
+            "room": "334",
+            "teacher": "Иговина А.В",
+            "date": ""
+        },
+        {
+            "time": "09:45–11:05",
+            "remarks": "В",
+            "subject": "Английский язык",
+            "lecture-practice": "",
+            "room": "347",
+            "teacher": "Кашкан Т.А.",
+            "date": "(кроме 20.05)"
+        },
+        {
+            "time": "11:15–12:35",
+            "remarks": "",
+            "subject": "Теоретическая механика",
+            "lecture-practice": "л",
+            "room": "346",
+            "teacher": "Макаева Т.А.",
+            "date": "(05.02-25.03)"
+        },
+        {
+            "time": "11:15–12:35",
+            "remarks": "",
+            "subject": "Информационный/Кураторский час",
+            "lecture-practice": "",
+            "room": "346",
+            "teacher": "Вярвильская О.Н.",
+            "date": "(с 01.04)"
+        },
+        {
+            "time": "13:00–14:20",
+            "remarks": "",
+            "subject": "Теоретическая механика",
+            "lecture-practice": "п",
+            "room": "346",
+            "teacher": "Макаева Т.А.",
+            "date": "(05.02-25.03)"
+        },
+        {
+            "time": "13:00–14:20",
+            "remarks": "",
+            "subject": "Китай в современном мире",
+            "lecture-practice": "с",
+            "room": "109 РИКК",
+            "teacher": "Батяновский Л.И. / Букатая А.М.",
+            "date": "(01.04)"
+        },
+        {
+            "time": "14:30–15:50",
+            "remarks": "",
+            "subject": "Информационный/Кураторский час",
+            "lecture-practice": "",
+            "room": "238",
+            "teacher": "Вярвильская О.Н.",
+            "date": "(до 25.03)"
+        }
+    ],
+    "Вторник": [
+        {
+            "time": "08:15–09:35",
+            "remarks": "1н",
+            "subject": "Физика",
+            "lecture-practice": "л",
+            "room": "606",
+            "teacher": "Нагорный Ю.Е.",
+            "date": ""
+        },
+        {
+            "time": "08:15–09:35",
+            "remarks": "2н",
+            "subject": "Информационные технологии",
+            "lecture-practice": "л",
+            "room": "606",
+            "teacher": "Никитин А.В.",
+            "date": ""
+        },
+        {
+            "time": "09:45–11:05",
+            "remarks": "а",
+            "subject": "Методы программирования",
+            "lecture-practice": "лаб",
+            "room": "407",
+            "teacher": "Насань О.А.",
+            "date": ""
+        },
+        {
+            "time": "09:45–11:05",
+            "remarks": "б",
+            "subject": "Методы программирования",
+            "lecture-practice": "лаб",
+            "room": "408",
+            "teacher": "Климкович Н.М.",
+            "date": ""
+        },
+        {
+            "time": "11:15–12:35",
+            "remarks": "1н а",
+            "subject": "Физика",
+            "lecture-practice": "лаб",
+            "room": "344",
+            "teacher": "Нагорный Ю.Е.",
+            "date": ""
+        },
+        {
+            "time": "11:15–12:35",
+            "remarks": "2н б",
+            "subject": "Физика",
+            "lecture-practice": "лаб",
+            "room": "344",
+            "teacher": "Нагорный Ю.Е.",
+            "date": ""
+        },
+        {
+            "time": "13:20-14:40",
+            "remarks": "",
+            "subject": "Физическая культура",
+            "lecture-practice": "",
+            "room": "",
+            "teacher": "",
+            "date": ""
+        },
+        {
+            "time": "16:00–17:20",
+            "remarks": "",
+            "subject": "Китай в современном мире",
+            "lecture-practice": "л",
+            "room": "109 РИКК",
+            "teacher": "Батяновский Л.И. / Букатая А.М.",
+            "date": "(до 02.04)"
+        }
+    ],
+    "Среда": [
+        {
+            "time": "08:15–09:35",
+            "remarks": "",
+            "subject": "Методы программирования",
+            "lecture-practice": "л",
+            "room": "609",
+            "teacher": "Аленский Н.А.",
+            "date": ""
+        },
+        {
+            "time": "09:45–11:05",
+            "remarks": "",
+            "subject": "Математический анализ",
+            "lecture-practice": "л",
+            "room": "332",
+            "teacher": "Мардвилко Т.С.",
+            "date": ""
+        },
+        {
+            "time": "11:15–12:35",
+            "remarks": "",
+            "subject": "Аналитическая геометрия",
+            "lecture-practice": "п",
+            "room": "332",
+            "teacher": "Бедрицкий А.С.",
+            "date": "(05.02-01.02)"
+        },
+        {
+            "time": "11:15–12:35",
+            "remarks": "",
+            "subject": "Доп. главы алгебры и аналит. геометрии",
+            "lecture-practice": "п",
+            "room": "332",
+            "teacher": "Бедрицкий А.С.",
+            "date": "(01.05-01.06)"
+        },
+        {
+            "time": "13:00–14:20",
+            "remarks": "б",
+            "subject": "Информационные технологии",
+            "lecture-practice": "лаб",
+            "room": "408",
+            "teacher": "Никитин А.В.",
+            "date": ""
+        },
+        {
+            "time": "14:30–15:50",
+            "remarks": "б",
+            "subject": "Информационные технологии",
+            "lecture-practice": "лаб",
+            "room": "408",
+            "teacher": "Никитин А.В.",
+            "date": ""
+        }
+    ],
+    "Четверг": [
+        {
+            "time": "08:15–09:35",
+            "remarks": "",
+            "subject": "Алгебра",
+            "lecture-practice": "л",
+            "room": "338",
+            "teacher": "Иванов К.А.",
+            "date": "(05.02-01.05) "
+        },
+        {
+            "time": "08:15–09:35",
+            "remarks": "",
+            "subject": "Доп. главы алгебры и аналит. геометрии",
+            "lecture-practice": "л",
+            "room": "338",
+            "teacher": "Иванов К.А.",
+            "date": "(01.05-01.06)"
+        },
+        {
+            "time": "09:45–11:05",
+            "remarks": "",
+            "subject": "Социология",
+            "lecture-practice": "п",
+            "room": "338",
+            "teacher": "Волнистая М.Г.",
+            "date": ""
+        },
+        {
+            "time": "11:15–12:35",
+            "remarks": "",
+            "subject": "Алгебра",
+            "lecture-practice": "п",
+            "room": "338",
+            "teacher": "Иванов К.А.",
+            "date": "(05.02-01.05)"
+        },
+        {
+            "time": "11:15–12:35",
+            "remarks": "",
+            "subject": "Доп. главы алгебры и аналит. геометрии",
+            "lecture-practice": "п",
+            "room": "338",
+            "teacher": "Иванов К.А.",
+            "date": "(01.05-01.06)"
+        },
+        {
+            "time": "13:00–14:20",
+            "remarks": "",
+            "subject": "Аналитическая геометрия",
+            "lecture-practice": "л",
+            "room": "606",
+            "teacher": "Тимохович В.Л. (замена Кононов)",
+            "date": "(05.02-01.05)"
+        },
+        {
+            "time": "13:00–14:20",
+            "remarks": "",
+            "subject": "Доп. главы алгебры и аналит. геометрии",
+            "lecture-practice": "л",
+            "room": "606",
+            "teacher": "Тимохович В.Л. (замена Кононов)",
+            "date": "(01.05-01.06)"
+        },
+        {
+            "time": "14:30–15:50",
+            "remarks": "А",
+            "subject": "Английский язык",
+            "lecture-practice": "",
+            "room": "340",
+            "teacher": "Потапова Н.Л.",
+            "date": ""
+        },
+        {
+            "time": "14:30–15:50",
+            "remarks": "Б",
+            "subject": "Английский язык",
+            "lecture-practice": "",
+            "room": "341",
+            "teacher": "Иговина А.В",
+            "date": ""
+        },
+        {
+            "time": "14:30–15:50",
+            "remarks": "В",
+            "subject": "Английский язык",
+            "lecture-practice": "",
+            "room": "410",
+            "teacher": "Кашкан Т.А.",
+            "date": ""
+        },
+        {
+            "time": "16:00–17:20",
+            "remarks": "",
+            "subject": "Физическая культура",
+            "lecture-practice": "л",
+            "room": "д/о",
+            "teacher": "",
+            "date": "(18.04)"
+        }
+    ],
+    "Пятница": [
+        {
+            "time": "9.30-10.50",
+            "remarks": "",
+            "subject": "Физическая культура",
+            "lecture-practice": "",
+            "room": "",
+            "teacher": "",
+            "date": ""
+        },
+        {
+            "time": "11:15–12:35",
+            "remarks": "",
+            "subject": "Математический анализ",
+            "lecture-practice": "л",
+            "room": "338",
+            "teacher": "Мардвилко Т.С.",
+            "date": ""
+        },
+        {
+            "time": "13:00–14:20",
+            "remarks": "",
+            "subject": "Математический анализ",
+            "lecture-practice": "п",
+            "room": "337",
+            "teacher": "Стриленко А.Д.",
+            "date": ""
+        },
+        {
+            "time": "14:30–15:50",
+            "remarks": "",
+            "subject": "Социология",
+            "lecture-practice": "л",
+            "room": "606 (19.04 — 238)",
+            "teacher": "Волнистая М.Г.",
+            "date": ""
+        }
+    ],
+    "Суббота": [
+        {
+            "time": "09:45–11:05",
+            "remarks": "а",
+            "subject": "Информационные технологии",
+            "lecture-practice": "лаб",
+            "room": "409",
+            "teacher": "Никитин А.В.",
+            "date": ""
+        },
+        {
+            "time": "11:15–12:35",
+            "remarks": "а",
+            "subject": "Информационные технологии",
+            "lecture-practice": "лаб",
+            "room": "409",
+            "teacher": "Никитин А.В.",
+            "date": ""
+        }
+    ]
+}

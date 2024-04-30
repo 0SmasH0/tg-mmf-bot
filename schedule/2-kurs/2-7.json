@@ -1,0 +1,275 @@
+{
+    "Понедельник": [
+        {
+            "time": "09:45–11:05",
+            "remarks": "",
+            "subject": "Теория функций комплексного переменного",
+            "lecture-practice": "л",
+            "room": "338",
+            "teacher": "Жоровина Т.Н.",
+            "date": "(04.03-22.04) "
+        },
+        {
+            "time": "11:15–12:35",
+            "remarks": "",
+            "subject": "Теория функций комплексного переменного",
+            "lecture-practice": "п",
+            "room": "347",
+            "teacher": "Жоровина Т.Н.",
+            "date": "(04.03-20.04)"
+        },
+        {
+            "time": "13:00–14:20",
+            "remarks": "",
+            "subject": "Технологии программирования",
+            "lecture-practice": "лаб",
+            "room": "402а",
+            "teacher": "Политаев Д.Н.",
+            "date": ""
+        },
+        {
+            "time": "14:30–15:50",
+            "remarks": "А",
+            "subject": "Английский язык",
+            "lecture-practice": "",
+            "room": "344",
+            "teacher": "Потапова Н.Л.",
+            "date": ""
+        },
+        {
+            "time": "14:30–15:50",
+            "remarks": "Б",
+            "subject": "Английский язык",
+            "lecture-practice": "",
+            "room": "347",
+            "teacher": "Столярова Е.Ю.",
+            "date": ""
+        },
+        {
+            "time": "14:30–15:50",
+            "remarks": "В",
+            "subject": "Английский язык",
+            "lecture-practice": "",
+            "room": "348",
+            "teacher": "Кашкан Т.А.",
+            "date": "(кроме 20.05)"
+        },
+        {
+            "time": "16:00–17:20",
+            "remarks": "",
+            "subject": "Немецкий язык",
+            "lecture-practice": "",
+            "room": "347",
+            "teacher": "Зубовская Н.К.",
+            "date": ""
+        }
+    ],
+    "Вторник": [
+        {
+            "time": "09:45–11:05",
+            "remarks": "",
+            "subject": "Теория функций комплексного переменного",
+            "lecture-practice": "п",
+            "room": "348",
+            "teacher": "Жоровина Т.Н.",
+            "date": "(21.04-01.06)"
+        },
+        {
+            "time": "11:15–12:35",
+            "remarks": "",
+            "subject": "Сопротивление материалов и основы строительной механики",
+            "lecture-practice": "л",
+            "room": "239",
+            "teacher": "Босяков С.М.",
+            "date": ""
+        },
+        {
+            "time": "13:00–14:20",
+            "remarks": "",
+            "subject": "Сопротивление материалов и основы строительной механики",
+            "lecture-practice": "п",
+            "room": "239",
+            "teacher": "Николайчик М.А.",
+            "date": ""
+        },
+        {
+            "time": "15:00-16:20",
+            "remarks": "",
+            "subject": "Физическая культура",
+            "lecture-practice": "",
+            "room": "",
+            "teacher": "",
+            "date": ""
+        }
+    ],
+    "Среда": [
+        {
+            "time": "09:45–11:05",
+            "remarks": "",
+            "subject": "Технологии программирования",
+            "lecture-practice": "л",
+            "room": "609",
+            "teacher": "Романчик В.С.",
+            "date": ""
+        },
+        {
+            "time": "11:15–12:35",
+            "remarks": "",
+            "subject": "Аналитическая механика",
+            "lecture-practice": "л",
+            "room": "347",
+            "teacher": "Протопопов Б.Е.",
+            "date": ""
+        },
+        {
+            "time": "13:00–14:20",
+            "remarks": "",
+            "subject": "Аналитическая механика",
+            "lecture-practice": "п",
+            "room": "347",
+            "teacher": "Протопопов Б.Е.",
+            "date": ""
+        },
+        {
+            "time": "14:30–15:50",
+            "remarks": "",
+            "subject": "Аналитическая механика",
+            "lecture-practice": "л/п",
+            "room": "347",
+            "teacher": "Протопопов Б.Е.",
+            "date": "(05.02-08.05)"
+        },
+        {
+            "time": "16:00–17:20",
+            "remarks": "",
+            "subject": "Немецкий язык",
+            "lecture-practice": "",
+            "room": "355",
+            "teacher": "Зубовская Н.К.",
+            "date": ""
+        }
+    ],
+    "Четверг": [
+        {
+            "time": "08:15–09:35",
+            "remarks": "А",
+            "subject": "Английский язык",
+            "lecture-practice": "",
+            "room": "347",
+            "teacher": "Потапова Н.Л.",
+            "date": ""
+        },
+        {
+            "time": "08:15–09:35",
+            "remarks": "Б",
+            "subject": "Английский язык",
+            "lecture-practice": "",
+            "room": "348",
+            "teacher": "Столярова Е.Ю.",
+            "date": ""
+        },
+        {
+            "time": "08:15–09:35",
+            "remarks": "В",
+            "subject": "Английский язык",
+            "lecture-practice": "",
+            "room": "351",
+            "teacher": "Кашкан Т.А.",
+            "date": ""
+        },
+        {
+            "time": "09:45–11:05",
+            "remarks": "",
+            "subject": "Теория упругости",
+            "lecture-practice": "л",
+            "room": "355",
+            "teacher": "Ботогова М.Г.",
+            "date": ""
+        },
+        {
+            "time": "11:15–12:35",
+            "remarks": "",
+            "subject": "Теория упругости",
+            "lecture-practice": "п",
+            "room": "355",
+            "teacher": "Ботогова М.Г.",
+            "date": ""
+        },
+        {
+            "time": "13:00–14:20",
+            "remarks": "",
+            "subject": "Теория упругости",
+            "lecture-practice": "л/п",
+            "room": "355",
+            "teacher": "Ботогова М.Г.",
+            "date": "(05.02-09.05)"
+        },
+        {
+            "time": "14:30–15:50",
+            "remarks": "",
+            "subject": "Информационный/Кураторский час",
+            "lecture-practice": "",
+            "room": "339",
+            "teacher": "Докукова Н.А.",
+            "date": ""
+        },
+        {
+            "time": "16:00–17:20",
+            "remarks": "",
+            "subject": "Физическая культура",
+            "lecture-practice": "л",
+            "room": "д/о",
+            "teacher": "",
+            "date": "(25.04)"
+        }
+    ],
+    "Пятница": [
+        {
+            "time": "8:00-9:20",
+            "remarks": "",
+            "subject": "Физическая культура",
+            "lecture-practice": "",
+            "room": "",
+            "teacher": "",
+            "date": ""
+        },
+        {
+            "time": "09:45–11:05",
+            "remarks": "",
+            "subject": "Теория функций комплексного переменного",
+            "lecture-practice": "л",
+            "room": "606",
+            "teacher": "Жоровина Т.Н.",
+            "date": ""
+        },
+        {
+            "time": "11:15–12:35",
+            "remarks": "1н",
+            "subject": "Теория функций комплексного переменного",
+            "lecture-practice": "п",
+            "room": "351",
+            "teacher": "Жоровина Т.Н.",
+            "date": ""
+        }
+    ],
+    "Суббота": [
+        {
+            "time": "11:15–12:35",
+            "remarks": "",
+            "subject": "Дифференциальные уравнения",
+            "lecture-practice": "л",
+            "room": "332",
+            "teacher": "Руденок А.Е.",
+            "date": ""
+        },
+        {
+            "time": "13:00–14:20",
+            "remarks": "",
+            "subject": "Дифференциальные уравнения",
+            "lecture-practice": "п",
+            "room": "332",
+            "teacher": "Руденок А.Е.",
+            "date": ""
+        }
+    ]
+}
