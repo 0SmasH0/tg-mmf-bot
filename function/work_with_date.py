@@ -60,7 +60,7 @@ def get_number_week() -> str:
                 w_d = '1н'
                 break
 
-    with open('subgroups.json', 'w') as f:
+    with open('../week_today.txt', 'w', encoding='utf-8') as f:
         f.write(w_d)
 
 

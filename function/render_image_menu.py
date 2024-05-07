@@ -1,9 +1,17 @@
 from PIL import Image, ImageFilter
 import pytesseract
+import os
 
 
 def render():
     img = Image.open("../menu/menu_today.jpg")
+
+    directory = "../menu"
+
+    files = os.listdir(directory)
+
+    for i in files[2:]:
+        os.remove(f"../menu/{i}")
 
     pytesseract.pytesseract.tesseract_cmd = r'C:/Program Files/Tesseract-OCR/tesseract.exe'
     config_for_dish = '--oem 3 --psm 6 -l rus --tessdata-dir "C:/Program Files/Tesseract-OCR"'
@@ -27,13 +35,16 @@ def render():
 
             el = el.split()
             try:
-
                 if el[-1].capitalize().replace('.', '') in menu:
                     x, y, w, h = int(el[6]), int(el[7]), int(el[8]), int(el[9])
                     res.append([x, y, w, el[-1].capitalize().replace('.', '')])
+
                 elif el[-1].capitalize().replace('.', '') in ['Издел', 'Цоп']:
                     x, y, w, h = int(el[6]), int(el[7]), int(el[8]), int(el[9])
                     res.append([x, y, w, el[-1].capitalize().replace('.', '')])
+
+                if res[-1][-1] == "Начальник":
+                    break
             except IndexError:
                 pass
         k += 1
@@ -47,7 +58,7 @@ def render():
     if len(res) == 10:
         menu_name.insert(-1, "Мучные и кулинарные изделия")
 
-    dishes_img_new = img.crop((50, 80, 730, res[-1][1] + 82)).filter(ImageFilter.SHARPEN)
+    dishes_img_new = img.crop((50, 80, 740, res[-1][1] + 82)).filter(ImageFilter.SHARPEN)
 
     dishes_img_new.save('../menu/Меню целиком.jpg')
 

@@ -11,11 +11,11 @@
         },
         {
             "time": "09:45–11:05",
-            "remarks": "",
-            "subject": "Дискретная математика и теория графов",
-            "lecture-practice": "п",
-            "room": "344",
-            "teacher": "Метельский Ю.М.",
+            "remarks": "а’",
+            "subject": "ДС Разработка Веб-приложений",
+            "lecture-practice": "лаб",
+            "room": "403",
+            "teacher": "Блинов И.Н.",
             "date": ""
         },
         {
@@ -32,7 +32,7 @@
             "remarks": "",
             "subject": "Технологии программирования",
             "lecture-practice": "л",
-            "room": "609 (15.04 — 247)",
+            "room": "609",
             "teacher": "Блинов И.Н.",
             "date": ""
         },
@@ -47,11 +47,11 @@
         },
         {
             "time": "16:00–17:20",
-            "remarks": "а’",
-            "subject": "ДС Разработка Веб-приложений",
-            "lecture-practice": "лаб",
-            "room": "405",
-            "teacher": "Блинов И.Н.",
+            "remarks": "",
+            "subject": "Дискретная математика и теория графов",
+            "lecture-practice": "п",
+            "room": "341",
+            "teacher": "Таразевич Ю.Г.",
             "date": ""
         }
     ],
@@ -245,7 +245,7 @@
             "remarks": "Б",
             "subject": "Английский язык",
             "lecture-practice": "",
-            "room": "349",
+            "room": "341",
             "teacher": "Буславская М.С.",
             "date": ""
         },
@@ -263,7 +263,7 @@
             "remarks": "Г",
             "subject": "Английский язык",
             "lecture-practice": "",
-            "room": "353",
+            "room": "237",
             "teacher": "Куцелай О.Б.",
             "date": ""
         },
@@ -311,7 +311,7 @@
             "subject": "Дискретная математика и теория графов",
             "lecture-practice": "л",
             "room": "609",
-            "teacher": "Метельский Ю.М.",
+            "teacher": "Таразевич Ю.Г.",
             "date": ""
         },
         {

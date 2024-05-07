@@ -26,7 +26,7 @@ def download_menu_food():
 
     driver.get(url)
 
-    wait = WebDriverWait(driver, 10)
+    wait = WebDriverWait(driver, 15)
 
     el = wait.until(EC.visibility_of_element_located((By.CLASS_NAME, "faculties-page__head")))
 
@@ -36,7 +36,7 @@ def download_menu_food():
 
     soup = BeautifulSoup(html_content, 'html.parser')
 
-    info = soup.find('b').get_text().split()[0]
+    info = soup.find_all('b')[1].get_text().split()[0]
     update_data = {"date": info}
 
     try:
@@ -287,3 +287,4 @@ def download_subgroups():
                 subgroups_letter[f'{k}'][f"{g}"] = sb
 
         json.dump(subgroups_letter, file, ensure_ascii=False, indent=4)
+
